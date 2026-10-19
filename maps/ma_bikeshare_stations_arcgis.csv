@@ -1,0 +1,733 @@
+system_name,system_id,station_id,station_name,zip,latitude,longitude
+Bluebikes,bluebikes,8e7c1984-dc81-43b0-a0d3-58c6de45225a,Broadway at Grafton St,02474,42.40994213011757,-71.1400932
+Bluebikes,bluebikes,2002247509585342522,Lake St. at Minuteman Bikeway,02474,42.40417034,-71.14690375
+Bluebikes,bluebikes,e4d5271f-5f76-401b-b7f0-c8dce3c26f10,Linwood St at Minuteman Bikeway,02474,42.40935395518158,-71.14906519
+Bluebikes,bluebikes,2089808297152151688,Mass Ave at Alewife Greenway,02474,42.40136480648764,-71.13655773
+Bluebikes,bluebikes,9c8366d8-3b58-4894-b281-09e22f6fe5f7,Mass Ave at Grafton St,02474,42.40726052447951,-71.14382132
+Bluebikes,bluebikes,2002579415401984808,Medford St at Warren St,02474,42.41649057463282,-71.14813429
+Bluebikes,bluebikes,2002248857751890568,Mill St. at Minuteman Bikeway,02474,42.41860274,-71.1575358
+Bluebikes,bluebikes,2088704000370565344,Mystic Valley Parkway at River Station,02474,42.415091,-71.139177
+Bluebikes,bluebikes,81323081-749c-44cf-ac62-0e6c64305c32,Railroad Lot and Minuteman Bikeway,02474,42.41606457115141,-71.15336637
+Bluebikes,bluebikes,1997031579059661288,Swan Place at Minuteman Bikeway,02474,42.414705,-71.152377
+Bluebikes,bluebikes,af066ffd-b892-434f-8532-1982fc408780,Thorndike Field at Minuteman Bikeway,02474,42.40016804853787,-71.14456963
+Bluebikes,bluebikes,2158217922577811100,135 Morrissey Blvd,02125,42.31556927,-71.04841571
+Bluebikes,bluebikes,f8350129-0de8-11e7-991c-3863bb43a7d0,175 N Harvard St,02134,42.364474565180565,-71.12840831
+Bluebikes,bluebikes,efd724b2-31cb-4aec-b9d9-8ab79271630c,2 Hummingbird Lane at Olmsted Green,02126,42.28887,-71.095003
+Bluebikes,bluebikes,2043911250700610106,300 Summer St,02210,42.34976682032281,-71.0490002
+Bluebikes,bluebikes,2110566771130438288,39 Brighton Ave,02134,42.35299558,-71.126578
+Bluebikes,bluebikes,b23674a7-15a8-46d2-8219-6668acecf24a,555 Metropolitan Ave,02136,42.2681,-71.11924
+Bluebikes,bluebikes,be18593a-9e4c-4a13-8bb2-a5bac3d9b2b3,606 American Legion Hwy at Canterbury St,02131,42.28578,-71.109725
+Bluebikes,bluebikes,868ccc83-99e5-4faf-96eb-e1fae26b9741,645 Summer St,02210,42.341780891371904,-71.03987017
+Bluebikes,bluebikes,1994054629753598708,780 Morrissey Blvd,02122,42.295305,-71.047186
+Bluebikes,bluebikes,ef54374b-0406-4b17-b0a1-847f1d7bea06,Adams St at Mallet St.,02122,42.29110056677005,-71.05688673
+Bluebikes,bluebikes,2220822464984366036,Adams St at Robinson St,02122,42.30285514213805,-71.06054743
+Bluebikes,bluebikes,ca76adb6-4c84-4484-9ec3-b411b81ddbef,Addison St at Saratoga St,02128,42.38518146513944,-71.0151367
+Bluebikes,bluebikes,f8352b39-0de8-11e7-991c-3863bb43a7d0,Airport T Stop - Bremen St at Brooks St,02128,42.375578,-71.031243
+Bluebikes,bluebikes,2220033166406469278,Alabama St at Messinger St,02126,42.275499,-71.10280577
+Bluebikes,bluebikes,1e1b40cd-8e00-4b74-b147-be6b23f5c9e7,Albany St at E. Brookline St,02118,42.33664795427071,-71.0689446
+Bluebikes,bluebikes,d1c0b0c2-6e4c-424e-a946-a2a95a711633,American Legion Hwy at Cummins Hwy,02131,42.278811581565975,-71.11687703
+Bluebikes,bluebikes,5d17f129-af8c-4f30-bc58-6a8279052772,American Legion Hwy at Hyde Park Ave,02136,42.27265394101898,-71.11990392
+Bluebikes,bluebikes,2227859082657747444,Andrew T Stop - Dorchester Ave (East),02127,42.330517,-71.056875
+Bluebikes,bluebikes,2227858849424910006,Andrew T Stop - Dorchester Ave (West),02127,42.330187,-71.057088
+Bluebikes,bluebikes,f8347002-0de8-11e7-991c-3863bb43a7d0,Aquarium T Stop - 200 Atlantic Ave,02110,42.359860234398624,-71.05160077
+Bluebikes,bluebikes,f8347ded-0de8-11e7-991c-3863bb43a7d0,Arch St at Franklin St,02110,42.35533501941256,-71.05822917
+Bluebikes,bluebikes,1ef9964d-47ac-4cd4-916e-7c006fa1e605,Archdale Rd at Washington St,02131,42.29266592872725,-71.12119539
+Bluebikes,bluebikes,2039109354743046934,Ashley St at Boardman St,02128,42.389155,-71.010409
+Bluebikes,bluebikes,57caf362-1e8b-46aa-9ee3-82341c405ab0,Ashmont T Stop,02124,42.2856944,-71.0641389
+Bluebikes,bluebikes,2126567695528519906,Atlantic Ave at Beach St,02111,42.35070811,-71.05658926
+Bluebikes,bluebikes,1978882443666915710,Au Bon Pain Way at Fid Kennedy Ave,02210,42.3461009,-71.0291997
+Bluebikes,bluebikes,f8346a3c-0de8-11e7-991c-3863bb43a7d0,B.U. Central T Stop - 725 Commonwealth Ave,02215,42.350406,-71.108279
+Bluebikes,bluebikes,f8346dbd-0de8-11e7-991c-3863bb43a7d0,Back Bay T Stop - Dartmouth St at Stuart St,02116,42.34807412317439,-71.07657015
+Bluebikes,bluebikes,8b703219-1e16-4ba1-9f46-2b7030c7849a,Bartlett St at John Eliot Sq,02119,42.3294633,-71.0901582
+Bluebikes,bluebikes,8f51f8f1-ecb8-4cd3-8529-296a03140c51,Beach St at Freeport St,02122,42.30367408892708,-71.05425954
+Bluebikes,bluebikes,f834d34b-0de8-11e7-991c-3863bb43a7d0,Beacon St at Charles St,02108,42.356052,-71.069849
+Bluebikes,bluebikes,f8348781-0de8-11e7-991c-3863bb43a7d0,Beacon St at Massachusetts Ave,02215,42.35082680669095,-71.08981088
+Bluebikes,bluebikes,ba634139-d7bf-448f-aac4-25995d36b67b,Belgrade Ave at Walworth St,02131,42.28634589486312,-71.1367213
+Bluebikes,bluebikes,1206f5c8-7d1f-4c32-9d65-f3e80186fbde,Bellevue T Stop,02131,42.28614801781256,-71.14642929
+Bluebikes,bluebikes,f8352973-0de8-11e7-991c-3863bb43a7d0,Bennington St at Byron St,02128,42.383532520117896,-71.01619095
+Bluebikes,bluebikes,fe6a64e7-c712-404c-85ae-ee77a37245b1,Bennington St at Constitution Beach,02128,42.385223935870535,-71.01063069
+Bluebikes,bluebikes,2039387081833476178,Bennington St at Marion St,02128,42.37590859,-71.03598452
+Bluebikes,bluebikes,2085366936904166272,Bike Town at Moakley Park,02127,42.32586,-71.049142
+Bluebikes,bluebikes,082262bd-086b-46c7-83ce-eed2b39142ff,Blossom St at Charles St,02114,42.36435603636751,-71.06944627
+Bluebikes,bluebikes,e32c0bb9-e85b-4764-b0fb-5c582cfd3a90,Blue Hill Ave at Almont St,02126,42.27462067181224,-71.09372552
+Bluebikes,bluebikes,065e0e5d-8a0d-49b7-9c1f-c8eaba51a8b4,Blue Hill Ave at Havelock St,02124,42.286012,-71.090986
+Bluebikes,bluebikes,eed9e64f-f09d-43c1-aa31-da968c66750a,Blue Hill Ave at Southwood St,02119,42.31786020589988,-71.07798629
+Bluebikes,bluebikes,f83471a1-0de8-11e7-991c-3863bb43a7d0,Boston City Hall - 28 State St,02203,42.35892,-71.057629
+Bluebikes,bluebikes,f834923d-0de8-11e7-991c-3863bb43a7d0,Boston Convention and Exhibition Center - Summer St at West Side Dr,02210,42.347763454147454,-71.04535997
+Bluebikes,bluebikes,f83532fa-0de8-11e7-991c-3863bb43a7d0,Boston East - 126 Border St,02128,42.373312125824704,-71.04102008
+Bluebikes,bluebikes,20b0b405-54ba-4a80-b89c-0819772665db,Boston Landing,02135,42.35656092308941,-71.14167538
+Bluebikes,bluebikes,f8346c01-0de8-11e7-991c-3863bb43a7d0,Boston Medical Center - E Concord St at Harrison Ave,02118,42.33639915372498,-71.07306711
+Bluebikes,bluebikes,2038239468396569074,Boston Public Market - Surface Rd at Sudbury St,02109,42.362561,-71.057489
+Bluebikes,bluebikes,f835259f-0de8-11e7-991c-3863bb43a7d0,Bowdoin St at Quincy St,02122,42.30785224238503,-71.06512249
+Bluebikes,bluebikes,f8348622-0de8-11e7-991c-3863bb43a7d0,Boylston St at Berkeley St,02116,42.35114198,-71.07329249
+Bluebikes,bluebikes,f83481c5-0de8-11e7-991c-3863bb43a7d0,Boylston St at Charles St,02116,42.35258478619324,-71.06761708
+Bluebikes,bluebikes,2fd22786-dfeb-4126-a906-4f01802087f3,Boylston St at Dartmouth St,02116,42.350287,-71.077505
+Bluebikes,bluebikes,cad0e759-b605-458a-b772-768dcce81dc6,Boylston St at Exeter St,02116,42.349589423682445,-71.07946779
+Bluebikes,bluebikes,f8349070-0de8-11e7-991c-3863bb43a7d0,Boylston St at Fairfield St,02116,42.348803822833936,-71.08236909
+Bluebikes,bluebikes,47c44bb1-d065-41f5-ad79-c18aee60af34,Boylston St at Jersey St,02215,42.34465062887831,-71.09732501
+Bluebikes,bluebikes,f8348857-0de8-11e7-991c-3863bb43a7d0,Boylston St at Massachusetts Ave,02115,42.34740620525209,-71.08678415
+Bluebikes,bluebikes,2141932795355773712,Boylston T Stop,02116,42.35250593,-71.06528293
+Bluebikes,bluebikes,7e1dae55-4d3d-4a41-b969-2aeca70e0e69,Bremen St at Marion St,02128,42.37410622047334,-71.03276253
+Bluebikes,bluebikes,f8347b1e-0de8-11e7-991c-3863bb43a7d0,Brigham Circle - Francis St at Huntington Ave,02115,42.33462893055976,-71.10407918
+Bluebikes,bluebikes,9cc65d3d-cfcc-45ff-8f75-7264556b1cf9,Brighton Ave at Linden St,02134,42.3528376,-71.1296752
+Bluebikes,bluebikes,f83512c9-0de8-11e7-991c-3863bb43a7d0,Brighton Center - Washington St at Cambridge St,02135,42.34894857235593,-71.15027189
+Bluebikes,bluebikes,f8346d23-0de8-11e7-991c-3863bb43a7d0,Brighton Mills - 370 Western Ave,02134,42.36154571,-71.13776207
+Bluebikes,bluebikes,5afe91c4-8076-4f9f-b83b-cf233bda2331,Broad St at Central St,02109,42.35849449039304,-71.0542647
+Bluebikes,bluebikes,56817d8e-3a1c-431a-a529-1a600f80c364,Broadway T Stop,02127,42.343048583900966,-71.0580343
+Bluebikes,bluebikes,f83510fd-0de8-11e7-991c-3863bb43a7d0,Bunker Hill Community College,02129,42.37408991426522,-71.06905997
+Bluebikes,bluebikes,f834dc46-0de8-11e7-991c-3863bb43a7d0,Burlington Ave at Brookline Ave,02215,42.345733,-71.100694
+Bluebikes,bluebikes,b34694c2-c640-4f70-b196-1c357ab798e0,Butler T Stop,02124,42.272548,-71.062882
+Bluebikes,bluebikes,2170342425741020744,C St at Baxter St,02127,42.33695202,-71.055482
+Bluebikes,bluebikes,f83466c6-0de8-11e7-991c-3863bb43a7d0,Cambridge St at Joy St,02114,42.36125721646537,-71.06528744
+Bluebikes,bluebikes,2127252912986958612,Cambridge St at Warren St,02135,42.350225,-71.146678
+Bluebikes,bluebikes,cf5f920f-b61d-4db0-b139-14aff04d577c,Canal St at Causeway St,02114,42.365188,-71.060788
+Bluebikes,bluebikes,dfdaf866-b814-48e5-9bd3-eb7c4a733697,Cedar Grove T Stop,02124,42.27960759693163,-71.0602212
+Bluebikes,bluebikes,0b0467c1-0c90-4529-a556-fe4d57835bbb,Central Ave at River St,02124,42.27094707029229,-71.07337901
+Bluebikes,bluebikes,9e710d48-51c1-460e-a027-3d16bde62b13,Central Square East Boston,02128,42.37544912547037,-71.03918549
+Bluebikes,bluebikes,1975886280004030604,Centre St at Allandale St,02130,42.300806,-71.127436
+Bluebikes,bluebikes,676ca473-eed6-4971-aaf3-e199a7ca335b,Centre St at Parkway YMCA,02132,42.28277901074054,-71.15728851
+Bluebikes,bluebikes,81676204-e42f-4d3d-991e-9c1264f36229,Centre St at Seaverns Ave,02130,42.31220470230067,-71.11437219
+Bluebikes,bluebikes,0cb6d635-6a7d-4d75-89b4-36b12616be12,Centre St at W. Roxbury Post Office,02132,42.28633199112775,-71.15344755
+Bluebikes,bluebikes,f8348a68-0de8-11e7-991c-3863bb43a7d0,Charles Circle - Charles St at Cambridge St,02114,42.36079296858265,-71.07118962
+Bluebikes,bluebikes,2031175112202687108,Charles St S at Stuart St,02116,42.35077778,-71.06669444
+Bluebikes,bluebikes,23146f28-9762-4a6d-a6db-fcd4ff0e5d07,Charlestown Navy Yard,02129,42.374124549426526,-71.054812
+Bluebikes,bluebikes,2212663228188806942,Charlestown Navy Yard Ferry Terminal,02129,42.37336492612888,-71.05283946
+Bluebikes,bluebikes,2071993292066931472,Chelsea St at Medford St,02129,42.37857,-71.05298
+Bluebikes,bluebikes,1960693490199507164,Chestnut Hill Ave at Ledgemere Rd,02135,42.343706,-71.153257
+Bluebikes,bluebikes,2129865213174084448,Chestnut Hill Ave at Winship St ,02135,42.34560832,-71.15276024
+Bluebikes,bluebikes,f83489ff-0de8-11e7-991c-3863bb43a7d0,Chinatown Gate Plaza,02111,42.351356,-71.059367
+Bluebikes,bluebikes,f8349e56-0de8-11e7-991c-3863bb43a7d0,Chinatown T Stop,02111,42.352409,-71.062679
+Bluebikes,bluebikes,f83483f3-0de8-11e7-991c-3863bb43a7d0,Christian Science Plaza - Massachusetts Ave at Westland Ave,02115,42.34366582,-71.08582377
+Bluebikes,bluebikes,f836bc28-36a7-4ca6-bba6-0d75333d84bb,Circuit Drive at American Legion Hwy,02121,42.29704126420948,-71.09171927
+Bluebikes,bluebikes,8983c75a-12c1-4995-aedc-24c94bd895e3,Clarendon St at Newbury St,02116,42.35158970719186,-71.07571057
+Bluebikes,bluebikes,ed6c012e-6d6c-41e7-8e01-90749fd67575,Cleary Sq,02136,42.2556,-71.12444
+Bluebikes,bluebikes,25a9114f-66f0-427c-920f-5526ca84f056,Cleveland Circle,02467,42.335543083570826,-71.1506152
+Bluebikes,bluebikes,e519df41-c4d7-403a-9afa-a5dd7cdd2d03,Clinton St at North St,02109,42.36070284,-71.05524927
+Bluebikes,bluebikes,ccf82572-a142-4378-9a4b-5a51fcb4ef81,Codman Square Library,02124,42.2873611,-71.071111
+Bluebikes,bluebikes,f83464e4-0de8-11e7-991c-3863bb43a7d0,Colleges of the Fenway - Fenway at Avenue Louis Pasteur,02115,42.34011512249236,-71.10061884
+Bluebikes,bluebikes,f83524c0-0de8-11e7-991c-3863bb43a7d0,Columbia Rd at Ceylon St,02121,42.309572,-71.0729
+Bluebikes,bluebikes,52ca4d94-587f-4a61-a298-a1a755e73bfb,Columbia Rd at Tierney Community Center,02127,42.33023070528729,-71.05060093
+Bluebikes,bluebikes,ddcc8869-b8d4-483c-b9da-457fcebc8dc1,Columbus Ave at W. Canton St,02116,42.34474224772802,-71.07648162
+Bluebikes,bluebikes,2004828637786472956,Commercial St at Charter St,02109,42.36817,-71.056847
+Bluebikes,bluebikes,f8346894-0de8-11e7-991c-3863bb43a7d0,Commonwealth Ave at Agganis Way,02215,42.35169201885973,-71.11903489
+Bluebikes,bluebikes,2069389896750516900,Commonwealth Ave at Blandford Mall,02215,42.349,-71.10047179
+Bluebikes,bluebikes,2119105928286481344,Commonwealth Ave at Chestnut Hill Dr,02135,42.338415,-71.154428
+Bluebikes,bluebikes,51bb4381-dae4-4aeb-b213-0614b807be29,Commonwealth Ave at Chiswick Rd,02135,42.34024644768889,-71.15168806
+Bluebikes,bluebikes,2036412579943670600,Commonwealth Ave at Fidelis Way,02135,42.345865,-71.141902
+Bluebikes,bluebikes,a6e0db4f-fc9b-42af-bfe0-36cc0259b717,Commonwealth Ave at Granby St,02215,42.349856,-71.103825
+Bluebikes,bluebikes,0adccd89-1d8d-44da-9f7c-5f18acafeddf,Commonwealth Ave at Kelton St,02134,42.348358628170445,-71.13997217
+Bluebikes,bluebikes,fae99a0c-e88a-4112-94d8-f655cf34e651,Commonwealth Ave at Naples Rd,02215,42.351911,-71.123798
+Bluebikes,bluebikes,f83482d2-0de8-11e7-991c-3863bb43a7d0,Congress St at Boston City Hall,02203,42.36041774637169,-71.05752244
+Bluebikes,bluebikes,2132460331327742574,Congress St at Boston Wharf Rd,02210,42.34951487,-71.046713
+Bluebikes,bluebikes,f8351791-0de8-11e7-991c-3863bb43a7d0,Congress St at Northern Ave,02210,42.3481,-71.03764
+Bluebikes,bluebikes,f83491d4-0de8-11e7-991c-3863bb43a7d0,Congress St at Sleeper St,02210,42.351004495946704,-71.04930013
+Bluebikes,bluebikes,2071724371800490690,Constitution Rd at Chelsea St,02129,42.3736,-71.05843
+Bluebikes,bluebikes,f8347e78-0de8-11e7-991c-3863bb43a7d0,Copley Square - Dartmouth St at Boylston St,02116,42.34992828230057,-71.07739207
+Bluebikes,bluebikes,f8348481-0de8-11e7-991c-3863bb43a7d0,Cross St at Hanover St,02113,42.362811,-71.056067
+Bluebikes,bluebikes,2074236051937964826,Cross St at Stillman St,02113,42.36370786,-71.05749336
+Bluebikes,bluebikes,1df03e33-c105-4e53-b013-d20056cd57f8,Cummins Highway at Blue Hill Ave T Stop,02126,42.269988465946064,-71.09746183
+Bluebikes,bluebikes,f834dedf-0de8-11e7-991c-3863bb43a7d0,Curtis Hall - South St at Centre St,02130,42.309054,-71.11543
+Bluebikes,bluebikes,1994515539257334312,Damrell St at Old Colony,02127,42.3324824,-71.0542411
+Bluebikes,bluebikes,803a0c16-4f81-44f1-8b49-a13fcdda40c1,Dartmouth St at Newbury St,02116,42.35096144421219,-71.07782811
+Bluebikes,bluebikes,f55cdf0a-3d7b-491c-bed2-7dc0ef2062d5,Day Sq,02128,42.379295,-71.027733
+Bluebikes,bluebikes,e2c306f6-82c7-4d0d-89fd-c9452d2f9ad1,Deerfield St at Commonwealth Ave,02215,42.34924376955301,-71.0972821
+Bluebikes,bluebikes,f834916a-0de8-11e7-991c-3863bb43a7d0,Dorchester Ave at Gillette Park,02127,42.34404051001636,-71.05737627
+Bluebikes,bluebikes,4fe8e777-345b-4fc2-a684-dd874e8186d8,Dorchester Ave at King St,02124,42.291718,-71.062571
+Bluebikes,bluebikes,2118728866631796788,Dorchester Ave at Savin Hill Ave,02125,42.31298010564324,-71.057511
+Bluebikes,bluebikes,f834b928-0de8-11e7-991c-3863bb43a7d0,Dudley Town Common - Mt Pleasant Ave at Blue Hill Ave,02119,42.325333,-71.075354
+Bluebikes,bluebikes,f834e534-0de8-11e7-991c-3863bb43a7d0,E Cottage St at Columbia Rd,02125,42.320561,-71.06198
+Bluebikes,bluebikes,f8352ac4-0de8-11e7-991c-3863bb43a7d0,East Boston Neighborhood Health Center - 20 Maverick Square,02128,42.369536,-71.039431
+Bluebikes,bluebikes,f8351019-0de8-11e7-991c-3863bb43a7d0,Edwards Playground - Main St at Eden St,02129,42.378965,-71.068607
+Bluebikes,bluebikes,f834e244-0de8-11e7-991c-3863bb43a7d0,Egleston Square - Atherton St at Washington St,02119,42.315692,-71.098634
+Bluebikes,bluebikes,9bfa4a32-5598-46ea-a1a1-17b4c6ed9d84,Fairmount St at Washington St,02124,42.28118487551138,-71.07120064
+Bluebikes,bluebikes,9b0aff89-5242-475e-b03b-87c3c3bf51bb,Falcon St at Meridian St,02128,42.38188,-71.0388
+Bluebikes,bluebikes,f8346768-0de8-11e7-991c-3863bb43a7d0,Fan Pier,02210,42.35339051,-71.0445714
+Bluebikes,bluebikes,2110984374959099994,Faneuil St at Bothwell Rd,02135,42.353313436367024,-71.15939592
+Bluebikes,bluebikes,74cb9bf6-bb53-4c70-88d2-67998b99628c,Farragut Rd at E. 6th St,02127,42.3334,-71.02495
+Bluebikes,bluebikes,2124668538068359456,Fenway at Forsyth Way,02115,42.34102248,-71.09210481
+Bluebikes,bluebikes,2134720099473744344,Fenway at Museum Rd,02115,42.33919988,-71.09662527
+Bluebikes,bluebikes,8d893519-bc21-4536-b346-f558988bc8ad,Fields Corner T Stop,02122,42.29963348842063,-71.06068976
+Bluebikes,bluebikes,ab6517ea-ed53-42eb-8881-657d362e56e8,Flat 9 at Whittier,02120,42.33420351352245,-71.08767617
+Bluebikes,bluebikes,4764641e-b080-4c70-a1e1-049de81e09d0,Forest Hills,02130,42.300923,-71.114249
+Bluebikes,bluebikes,bd1755dc-f26c-420e-85b3-fd025d0b5445,Forsyth St at Huntington Ave,02115,42.34002048,-71.09068836
+Bluebikes,bluebikes,31382324-2931-491a-827a-40149e45afee,Four Corners - 157 Washington St,02121,42.30412792739016,-71.07929528
+Bluebikes,bluebikes,2fded452-cbd0-4248-b008-f8a61ed9a85f,Four Corners/Geneva T Stop,02121,42.30321534982497,-71.07820988
+Bluebikes,bluebikes,f8350cc1-0de8-11e7-991c-3863bb43a7d0,Franklin Park - Seaver St at Humboldt Ave,02121,42.309796,-71.092225
+Bluebikes,bluebikes,f835108b-0de8-11e7-991c-3863bb43a7d0,Franklin Park Zoo - Franklin Park Rd at Blue Hill Ave,02121,42.303469,-71.085347
+Bluebikes,bluebikes,2113560016964645240,Franklin St at Cambridge St,02134,42.35579247,-71.13286475
+Bluebikes,bluebikes,0839bb10-e876-4198-95e4-0147a561853d,Gallivan Blvd at Adams St,02124,42.28297567840305,-71.05466698
+Bluebikes,bluebikes,2126939746529359956,Gardner St at Alcorn St,02215,42.35320766,-71.1233029
+Bluebikes,bluebikes,2111712079786088918,Gardner St at Harvard Ave,02134,42.353508,-71.131932
+Bluebikes,bluebikes,7ec0c53c-876a-419c-a78b-4edd000bbc9a,Geiger Gibson Community Health Center,02125,42.31886468217537,-71.04536798
+Bluebikes,bluebikes,f8352c1a-0de8-11e7-991c-3863bb43a7d0,Glendon St at Condor St,02128,42.38240377674137,-71.03024304
+Bluebikes,bluebikes,c935cfb1-ef73-402e-9b86-83aaaac6534d,Gove St at Orleans St,02128,42.37057753242139,-71.0355854
+Bluebikes,bluebikes,f835260c-0de8-11e7-991c-3863bb43a7d0,Government Center - Cambridge St at Court St,02203,42.3598254,-71.05979576
+Bluebikes,bluebikes,f834f036-0de8-11e7-991c-3863bb43a7d0,Green Street T Stop - Green St at Amory St,02130,42.310579,-71.107341
+Bluebikes,bluebikes,f835244e-0de8-11e7-991c-3863bb43a7d0,Grove Hall Library - 41 Geneva Ave,02121,42.30791,-71.080952
+Bluebikes,bluebikes,f8346c96-0de8-11e7-991c-3863bb43a7d0,HMS/HSPH - Avenue Louis Pasteur at Longwood Ave,02115,42.33741748,-71.10286117
+Bluebikes,bluebikes,25d6f87f-7025-48c5-b202-f91511a4ae19,Hancock St at Pleasant St,02122,42.30981924861789,-71.06019938
+Bluebikes,bluebikes,2131714490587826928,Harambee Park - Westview St at Blue Hill Ave,02124,42.2912605,-71.088675
+Bluebikes,bluebikes,2040842277416872172,Harbor St at Channel St,02210,42.34514378,-71.03645329
+Bluebikes,bluebikes,2212258635631104970,Harborwalk at Central Wharf,02110,42.35846813,-71.05040243
+Bluebikes,bluebikes,fbc512a5-4b98-4821-bcfb-bb0c7ac83543,Harrison Ave at Bennet St,02111,42.34942609892521,-71.0620996
+Bluebikes,bluebikes,50cc3c7f-50ed-4c70-b483-c89f3f47c938,Harrison Ave at E. Dedham St,02118,42.339194,-71.06975
+Bluebikes,bluebikes,81bfc33b-30d8-4881-b261-712715a8b2bc,Harrison Ave at Mullins Way,02118,42.34521562115022,-71.06384031
+Bluebikes,bluebikes,bb27977d-36c1-496d-8bac-631b612dd7b8,Harvard Ave at Brainerd Rd,02134,42.34953016890375,-71.13022771
+Bluebikes,bluebikes,0f554e1d-9f0f-452d-9b4a-e00aa2c5911e,Harvard Stadium: N. Harvard St at Soldiers Field Rd,02134,42.368019,-71.1242
+Bluebikes,bluebikes,f834e75d-0de8-11e7-991c-3863bb43a7d0,Hayes Square - Vine St at Moulton St,02129,42.377022,-71.056605
+Bluebikes,bluebikes,2245672241002318634,Heath St at Columbus Ave,02130,42.32505648,-71.09947309
+Bluebikes,bluebikes,2035660824473983142,Herter Park,02135,42.36572361,-71.13539289
+Bluebikes,bluebikes,1991921362058752616,High St at Federal St,02110,42.35352778,-71.05622222
+Bluebikes,bluebikes,c5cfd1ed-aa44-4e20-96bb-e334c96f0d68,Honan Library,02134,42.36027370454934,-71.12852452
+Bluebikes,bluebikes,e3f5d039-a49e-4b3b-ab4d-4efbef2068c6,Hood Park,02129,42.38004534693313,-71.07304573
+Bluebikes,bluebikes,2115804056935012722,Huntington Ave at Colburn St,02115,42.33268137,-71.11083321
+Bluebikes,bluebikes,2131760674371160748,Huntington Ave at Exeter St,02199,42.34785628,-71.078951
+Bluebikes,bluebikes,5018e851-f2f3-4e18-9914-c316bbcc2c3d,Huntington Ave at Mass Art,02115,42.336585554561154,-71.09886996
+Bluebikes,bluebikes,2118368356250680236,Huntington Ave at St. Alphonsus St,02115,42.33611341,-71.09921672
+Bluebikes,bluebikes,a6d6d4b2-3666-43ad-a690-7f676bdcc3fd,Hyde Park Ave at Arlington St,02136,42.26286746177123,-71.12163126
+Bluebikes,bluebikes,ff6ed364-8676-45a0-b97f-71025683849e,Hyde Park Ave at Walk Hill St,02130,42.29606704649873,-71.116012
+Bluebikes,bluebikes,d1a5e406-718c-44b9-b9dd-e63605b888aa,Hyde Park Library,02136,42.2568376,-71.122509
+Bluebikes,bluebikes,f834e1b2-0de8-11e7-991c-3863bb43a7d0,Hyde Square - Centre St at Perkins St,02130,42.32176525723952,-71.10984161
+Bluebikes,bluebikes,f834f6a3-0de8-11e7-991c-3863bb43a7d0,ID Building East,02210,42.344827,-71.028664
+Bluebikes,bluebikes,f834f814-0de8-11e7-991c-3863bb43a7d0,ID Building West,02210,42.344796,-71.031614
+Bluebikes,bluebikes,f835027c-0de8-11e7-991c-3863bb43a7d0,Ink Block - Harrison Ave at Herald St,02118,42.345901,-71.063187
+Bluebikes,bluebikes,f8347a8b-0de8-11e7-991c-3863bb43a7d0,Innovation Lab - 125 Western Ave at Batten Way,02134,42.36371276003581,-71.12459779
+Bluebikes,bluebikes,2123672938202825324,Ipswich St at Van Ness St,02215,42.3458089,-71.09548545
+Bluebikes,bluebikes,f834a8a0-0de8-11e7-991c-3863bb43a7d0,JFK/UMass T Stop,02125,42.32033973515723,-71.05118036
+Bluebikes,bluebikes,f834ec42-0de8-11e7-991c-3863bb43a7d0,Jackson Square T Stop,02130,42.32293117195949,-71.10014141
+Bluebikes,bluebikes,c5017e67-cada-4549-a52e-0f13dddd289d,Jamaica St at South St,02130,42.30604563,-71.11570891
+Bluebikes,bluebikes,2038619205667946906,Jamaicaway at Perkins St,02130,42.321251,-71.116483
+Bluebikes,bluebikes,f8347ccd-0de8-11e7-991c-3863bb43a7d0,Kenmore Square,02215,42.348706,-71.097009
+Bluebikes,bluebikes,2096125468116637776,Kenmore Square - 660 Beacon St,02215,42.34922,-71.095751
+Bluebikes,bluebikes,d7507124-4cab-4063-8445-a59a33a3d6e4,Knoll St at Centre St,02131,42.29376656473529,-71.1365658
+Bluebikes,bluebikes,f8347c41-0de8-11e7-991c-3863bb43a7d0,Landmark Center - Brookline Ave at Park Dr,02215,42.34369055719748,-71.10235287
+Bluebikes,bluebikes,99675a11-a92c-465c-bf5a-434b08ba5fc6,Lansdowne T Stop,02215,42.34734473177431,-71.10016808
+Bluebikes,bluebikes,c1ae49bd-2a20-4684-886b-ead8dd627cfd,Lenox St at Kendall St,02118,42.33759485033856,-71.08255059
+Bluebikes,bluebikes,287aedf5-0361-47e9-9de0-14ae3b75cc0d,Lewis Mall Wharf,02128,42.365678711213775,-71.04030132
+Bluebikes,bluebikes,f83480a9-0de8-11e7-991c-3863bb43a7d0,Lewis Wharf at Atlantic Ave,02110,42.363871,-71.050877
+Bluebikes,bluebikes,4caf6e93-ddd7-4b6f-9e61-f9df1206ac92,Lincoln St at Empire St,02134,42.357651,-71.128513
+Bluebikes,bluebikes,f8346ad7-0de8-11e7-991c-3863bb43a7d0,Longwood Ave at Binney St,02115,42.338629,-71.1065
+Bluebikes,bluebikes,f8352219-0de8-11e7-991c-3863bb43a7d0,MLK Blvd at Washington St,02119,42.32143814183195,-71.09126061
+Bluebikes,bluebikes,f834a959-0de8-11e7-991c-3863bb43a7d0,Main St at Austin St,02129,42.375603,-71.064608
+Bluebikes,bluebikes,7f68a70d-af0e-450a-b7a8-ce621cd0c8c1,Main St at Baldwin St,02129,42.380857,-71.070629
+Bluebikes,bluebikes,2071630998981871920,Main St at Devens St,02129,42.37401575,-71.06331387
+Bluebikes,bluebikes,2071632496372113488,Main St at Salem St,02129,42.3771,-71.06646
+Bluebikes,bluebikes,3dbbb3cb-b52d-46f8-8f9c-db11e83d081c,Main St at Thompson Sq,02129,42.374878467440965,-71.06383499
+Bluebikes,bluebikes,2111332861978124760,Market St at Mapleton St,02135,42.35207673,-71.151571
+Bluebikes,bluebikes,aefc33cd-40b9-48da-8b87-415428816bdb,Martha Eliot Health Center,02130,42.324173,-71.10196
+Bluebikes,bluebikes,2171110977443594588,Mary Ellen McCormack - Sterling Square,02127,42.32642265,-71.054011
+Bluebikes,bluebikes,ad2cf74c-0e8c-4e15-8f19-2259e8c82f0f,Mass Ave T Stop,02118,42.34135615767354,-71.08336953
+Bluebikes,bluebikes,2012646293885032702,Massachusetts Ave at Boylston St.,02215,42.34752,-71.088012
+Bluebikes,bluebikes,f8348924-0de8-11e7-991c-3863bb43a7d0,Massachusetts Ave at Columbus Ave,02118,42.340783,-71.081255
+Bluebikes,bluebikes,b995a0b4-fc26-4661-9bc8-e166d648edfd,Mattapan Library,02126,42.2773889,-71.09325
+Bluebikes,bluebikes,b5894555-30a3-46db-918a-fdeb083d6001,Mattapan T Stop,02126,42.267902,-71.093641
+Bluebikes,bluebikes,f8352a4d-0de8-11e7-991c-3863bb43a7d0,Maverick Square - Lewis Mall,02128,42.36884408289836,-71.03977829
+Bluebikes,bluebikes,8d535c23-f186-4161-aa10-17e94be6d4ae,Maverick St at Massport Path,02128,42.36774122306014,-71.03335975
+Bluebikes,bluebikes,48abed77-c9ba-4a39-8a5c-6a1e9bb8a9a5,Meaney Playground - Pleasant St at E Cottage St,02125,42.3186,-71.058766
+Bluebikes,bluebikes,a18e1e55-507e-49d8-b7c0-5c0efd959125,Medford St at Charlestown BCYF,02129,42.380429474494896,-71.06055722
+Bluebikes,bluebikes,2071991821019036242,Medford St at McNulty Ct,02129,42.37916,-71.0578627
+Bluebikes,bluebikes,2217856523888952522,Moraine St at Centre St,02130,42.31958808,-71.11196872
+Bluebikes,bluebikes,b205d2bb-bb76-49ac-8d14-85eec5a874d3,Morton St T,02126,42.280725142920296,-71.08617242
+Bluebikes,bluebikes,b6a8522d-296d-4c05-887d-842374520780,Morton St at Gallivan Blvd,02126,42.278747,-71.080286
+Bluebikes,bluebikes,9f54207a-3308-43bd-b45c-9042b6389598,Mt. Hope St at Hyde Park Ave,02131,42.28484472443536,-71.11874517
+Bluebikes,bluebikes,f8348995-0de8-11e7-991c-3863bb43a7d0,Mugar Way at Beacon St,02108,42.35553628489709,-71.0728687
+Bluebikes,bluebikes,f834ffc9-0de8-11e7-991c-3863bb43a7d0,Murphy Skating Rink - 1880 Day Blvd,02127,42.336448,-71.023739
+Bluebikes,bluebikes,2107991976288962746,N. Harvard St at Harvard Way,02163,42.36678297,-71.12517547
+Bluebikes,bluebikes,f83523e3-0de8-11e7-991c-3863bb43a7d0,NCAAA - Walnut Ave at Crawford St,02121,42.316902,-71.091946
+Bluebikes,bluebikes,f8351eb0-0de8-11e7-991c-3863bb43a7d0,Nashua Street at Red Auerbach Way,02114,42.365673,-71.064263
+Bluebikes,bluebikes,2076849845777355316,Nashua Street at Red Auerbach Way [Extension],02114,42.36585846,-71.06415737
+Bluebikes,bluebikes,f8347f09-0de8-11e7-991c-3863bb43a7d0,New Balance - 20 Guest St,02135,42.35732921867706,-71.1467354
+Bluebikes,bluebikes,2131371824572002576,New Edgerly Plaza - Westland Ave at Edgerly Rd,02115,42.34367194,-71.08742
+Bluebikes,bluebikes,f8348719-0de8-11e7-991c-3863bb43a7d0,Newbury St at Hereford St,02115,42.348696571668725,-71.08561993
+Bluebikes,bluebikes,f834f948-0de8-11e7-991c-3863bb43a7d0,Newmarket Square T Stop - Massachusetts Ave at Newmarket Square,02118,42.326599,-71.066498
+Bluebikes,bluebikes,1961066392414132348,Northampton St at Fellows St,02118,42.333586070395285,-71.075188
+Bluebikes,bluebikes,87b5a8b7-a330-4c51-ab32-7dafa292c88f,Northbourne Rd at Hyde Park Ave,02130,42.29118034790426,-71.11773666
+Bluebikes,bluebikes,f834662c-0de8-11e7-991c-3863bb43a7d0,Northeastern University - North Parking Lot,02115,42.341814,-71.090179
+Bluebikes,bluebikes,2043912031919765854,Northern Ave at Haul Rd,02210,42.347181,-71.035796
+Bluebikes,bluebikes,f83488be-0de8-11e7-991c-3863bb43a7d0,Nubian Square - Bolling Building,02119,42.329842993518085,-71.08386572
+Bluebikes,bluebikes,f835288a-0de8-11e7-991c-3863bb43a7d0,Oak Square - 615 Washington St,02135,42.35057,-71.166491
+Bluebikes,bluebikes,2113555008851845550,Oak Square - Washington St at Bigelow St,02135,42.35062298,-71.16744293
+Bluebikes,bluebikes,a3b94ed8-8301-4ec6-baf2-64ac493b5106,One Beacon St,02108,42.358477644348106,-71.0613513
+Bluebikes,bluebikes,f24a573e-ef07-4785-9270-70c443510ea6,One Brigham Circle,02120,42.33392270136997,-71.10446509
+Bluebikes,bluebikes,f8352c92-0de8-11e7-991c-3863bb43a7d0,Orient Heights T Stop - Bennington St at Saratoga St,02128,42.386781,-71.006098
+Bluebikes,bluebikes,f8348136-0de8-11e7-991c-3863bb43a7d0,Packard's Corner - Commonwealth Ave at Brighton Ave,02215,42.352261,-71.123831
+Bluebikes,bluebikes,f8346f6f-0de8-11e7-991c-3863bb43a7d0,Park Dr at Buswell St,02215,42.347241,-71.105301
+Bluebikes,bluebikes,df03c61a-29d7-445d-9980-d7f058916591,Park Plaza at Charles St S.,02116,42.35182806892068,-71.06781138
+Bluebikes,bluebikes,103a9881-e30a-4d57-b81d-863b995ff759,Park St at Norwell St,02124,42.29442578670662,-71.07821761
+Bluebikes,bluebikes,2093488029445054742,Park Street T Stop - Tremont St at Park St,02108,42.3566271,-71.062457
+Bluebikes,bluebikes,2438d052-2cd6-4fba-83c9-39f46cb59398,Parker St at Huntington Ave,02115,42.33848849,-71.09261138
+Bluebikes,bluebikes,2040842870122359032,Pearl St at Milk St,02110,42.35677593,-71.05549774
+Bluebikes,bluebikes,c1789d39-705f-4c03-9c14-4d6a3a4f4400,Pier 4 Blvd at Autumn Ln,02210,42.3502102,-71.0446705
+Bluebikes,bluebikes,f83529e2-0de8-11e7-991c-3863bb43a7d0,Piers Park,02128,42.36501119822304,-71.03528559
+Bluebikes,bluebikes,2145094035874873892,Pilgrim Rd at Brookline Ave,02215,42.3425995,-71.104903
+Bluebikes,bluebikes,2029805507281123700,Pope John Paul II Park - Neponset Trail at Hallet St,02122,42.279774,-71.046085
+Bluebikes,bluebikes,3b158c7a-a362-43ae-af1f-121b78be32d7,Porzio Park,02128,42.364119035231525,-71.02876782
+Bluebikes,bluebikes,f8348509-0de8-11e7-991c-3863bb43a7d0,Post Office Square,02110,42.35585435522005,-71.05459746
+Bluebikes,bluebikes,2223043968513191970,Prentiss St at Mindoro St,02120,42.333708232457695,-71.09362667
+Bluebikes,bluebikes,f834708e-0de8-11e7-991c-3863bb43a7d0,Prudential Center - 101 Huntington Ave,02199,42.34652003998412,-71.08065777
+Bluebikes,bluebikes,f8351f87-0de8-11e7-991c-3863bb43a7d0,Purchase St at Pearl St,02110,42.354659,-71.053181
+Bluebikes,bluebikes,2130224177726511580,Reservoir Rd at Beacon St,02135,42.331459,-71.157672
+Bluebikes,bluebikes,2113200093114979090,Ringer Park - Webley St at Armington St,02134,42.35225564,-71.13718336
+Bluebikes,bluebikes,4c128753-6fde-4d4c-896e-a1adf89ada98,Riverway at Brookline Ave,02215,42.33661005730433,-71.1100468
+Bluebikes,bluebikes,5b1d2661-8a93-4f14-b242-ebc52792f951,Roslindale Village - South St,02131,42.287072,-71.127754
+Bluebikes,bluebikes,aa964f5b-fadf-4fc1-8c91-84ee36e15f0d,Roslindale Village - Washington St,02131,42.28630716010807,-71.12820532
+Bluebikes,bluebikes,8b97606e-a849-4db8-ae9b-4009fe48d90b,Ross Playground,02136,42.264569,-71.114568
+Bluebikes,bluebikes,f834824e-0de8-11e7-991c-3863bb43a7d0,Rowes Wharf at Atlantic Ave,02110,42.357143,-71.050699
+Bluebikes,bluebikes,f83473ea-0de8-11e7-991c-3863bb43a7d0,Roxbury Crossing T Stop - Columbus Ave at Tremont St,02120,42.331184,-71.095171
+Bluebikes,bluebikes,f8352150-0de8-11e7-991c-3863bb43a7d0,Roxbury YMCA - Warren St at MLK Blvd,02119,42.31787329345602,-71.08243078
+Bluebikes,bluebikes,f83492b4-0de8-11e7-991c-3863bb43a7d0,Royce Rd at Commonwealth Ave,02134,42.34953675197802,-71.13182827
+Bluebikes,bluebikes,2136546016037880534,Rugg Rd at Braintree St,02134,42.35608219,-71.13538923
+Bluebikes,bluebikes,f8346b6f-0de8-11e7-991c-3863bb43a7d0,Ruggles T Stop - Columbus Ave at Melnea Cass Blvd,02120,42.33624444796878,-71.08798563
+Bluebikes,bluebikes,2085737662370069102,Rutherford Ave at Bunker Hill Industrial Park,02129,42.379352,-71.071371
+Bluebikes,bluebikes,2103549125054737064,Rutherford Ave at Main St,02129,42.38385,-71.073114
+Bluebikes,bluebikes,f8350ecf-0de8-11e7-991c-3863bb43a7d0,Ryan Playground - Dorchester Ave at Harbor View St,02125,42.31756,-71.05639
+Bluebikes,bluebikes,f8350b76-0de8-11e7-991c-3863bb43a7d0,S Huntington at Heath St,02130,42.32767224924457,-71.11102356
+Bluebikes,bluebikes,f83511d4-0de8-11e7-991c-3863bb43a7d0,Savin Hill T Stop - S Sydney St at Bay St,02125,42.3106,-71.0539
+Bluebikes,bluebikes,f8350a84-0de8-11e7-991c-3863bb43a7d0,Seaport Blvd at Sleeper St,02210,42.35317809186252,-71.04817357
+Bluebikes,bluebikes,f8347ba8-0de8-11e7-991c-3863bb43a7d0,Seaport Hotel - Congress St at Seaport Ln,02210,42.34898004239155,-71.04217991
+Bluebikes,bluebikes,f834723b-0de8-11e7-991c-3863bb43a7d0,Seaport Square - Seaport Blvd at Northern Ave,02210,42.35148193460858,-71.04436085
+Bluebikes,bluebikes,2267569638034503736,Shattuck / Franklin Park Tennis Courts,02121,42.299688,-71.099835
+Bluebikes,bluebikes,2080205593583047424,Shawmut Ave at E Berkeley St,02118,42.344607,-71.06702
+Bluebikes,bluebikes,1999639508813492766,Shawmut Ave at Herald St,02118,42.346647,-71.066049
+Bluebikes,bluebikes,a9bc314b-a3fd-46e5-a63b-f005258bba5f,Shawmut Ave at Lenox St,02118,42.33584612997077,-71.08038157
+Bluebikes,bluebikes,53548ba4-ad0a-4d92-8e57-fd5c9f3ad102,Shawmut Ave at Oak St W,02116,42.34854543411198,-71.06559185
+Bluebikes,bluebikes,ea00f276-26dc-48ee-b2c8-6e56fd632a2d,Shawmut T Stop,02124,42.292917,-71.06575
+Bluebikes,bluebikes,36f36eed-1070-49be-8b31-5676b8b3489f,Silber Way,02215,42.34949599514002,-71.10057592
+Bluebikes,bluebikes,2120986392451359068,Smith St at Parker St,02120,42.33290175,-71.09683344
+Bluebikes,bluebikes,f8346e51-0de8-11e7-991c-3863bb43a7d0,Soldiers Field Park - 111 Western Ave,02163,42.36426344063853,-71.1182757
+Bluebikes,bluebikes,f834d260-0de8-11e7-991c-3863bb43a7d0,South Boston Library - 646 E Broadway,02127,42.335741,-71.03877
+Bluebikes,bluebikes,f83472d3-0de8-11e7-991c-3863bb43a7d0,South End Library - Tremont St at W Newton St,02118,42.341332,-71.076847
+Bluebikes,bluebikes,f8347118-0de8-11e7-991c-3863bb43a7d0,South Station - 700 Atlantic Ave,02111,42.351015,-71.05611339
+Bluebikes,bluebikes,f834a2a8-0de8-11e7-991c-3863bb43a7d0,Spaulding Rehabilitation Hospital - Charlestown Navy Yard,02129,42.378338,-71.048927
+Bluebikes,bluebikes,90330e1a-dee5-4914-9d3f-3891aeca12ca,Spring St at Powell St,02132,42.277484442008216,-71.16341468
+Bluebikes,bluebikes,2136942888571742916,St. Alphonsus St at Horadan Way,02120,42.33506481,-71.0998929
+Bluebikes,bluebikes,dd008e3c-ff17-4c82-abe0-502272a62425,St. Alphonsus St at Tremont St,02120,42.33329254719182,-71.10124648
+Bluebikes,bluebikes,2090635592862466836,Stadium Rd at Western Ave,02134,42.36306021,-71.12504503
+Bluebikes,bluebikes,1999644268058967024,Staniford St at Merrimac St,02114,42.36358,-71.063721
+Bluebikes,bluebikes,f8350199-0de8-11e7-991c-3863bb43a7d0,State Street at Channel Center,02210,42.344137,-71.052608
+Bluebikes,bluebikes,c98f50f6-1901-4c64-b164-8cf33245e022,Stony Brook T Stop,02130,42.316966,-71.104374
+Bluebikes,bluebikes,36a8fbc8-6069-4a29-bbfd-63a2d019c9a5,Stuart St at Berkeley St,02116,42.34954403114251,-71.07242074
+Bluebikes,bluebikes,f8348598-0de8-11e7-991c-3863bb43a7d0,Stuart St at Charles St,02116,42.351146,-71.066289
+Bluebikes,bluebikes,2007420398783036020,Stuart St at Church St,02116,42.35066667,-71.06830556
+Bluebikes,bluebikes,40ee059e-8530-4992-9114-c16b87d6832f,Sullivan Square,02129,42.38445225635844,-71.07514855
+Bluebikes,bluebikes,f8350204-0de8-11e7-991c-3863bb43a7d0,Surface Rd at India St,02109,42.358155,-71.052163
+Bluebikes,bluebikes,2057166010169469732,Surface Rd at State Street,02109,42.359743,-71.052602
+Bluebikes,bluebikes,2363c5a3-93cc-41a2-a767-90f1826c041f,Surface Rd at Summer St,02110,42.35294569782581,-71.05656401
+Bluebikes,bluebikes,f8285d4f-5053-4e26-bb28-72016fe11353,Sydney St at Carson St,02125,42.32039374304257,-71.05355408
+Bluebikes,bluebikes,97a1e4e7-a1ff-427a-aaea-48ca0d00bf9c,Talbot Ave At Blue Hill Ave,02124,42.2945833,-71.087111
+Bluebikes,bluebikes,350e73e3-6f70-4b2d-87ab-24c8629e9a6a,Talbot Ave T Station,02124,42.29225148276875,-71.07797205
+Bluebikes,bluebikes,ec4e1168-25dc-4929-b17b-e4ae578dd888,The Dimock Center,02119,42.31930943,-71.09639924
+Bluebikes,bluebikes,f8352ba8-0de8-11e7-991c-3863bb43a7d0,The Eddy - New St at Sumner St,02128,42.370744,-71.044201
+Bluebikes,bluebikes,f8350d30-0de8-11e7-991c-3863bb43a7d0,The Lawn on D,02210,42.344792,-71.044024
+Bluebikes,bluebikes,2ba0c5dd-c990-4434-8a84-5c3eca23f096,The Overlook at St. Gabriel's,02135,42.34679008347347,-71.14549814
+Bluebikes,bluebikes,b0b8e427-7203-4844-9c70-129e08a74452,Thetford Ave at Norfolk St,02124,42.286192,-71.079381
+Bluebikes,bluebikes,68323451-daf0-4532-a6cb-b070e3ef358f,Tremont St at Court St,02203,42.35946019932843,-71.05964451
+Bluebikes,bluebikes,f834658f-0de8-11e7-991c-3863bb43a7d0,Tremont St at E Berkeley St,02116,42.345392,-71.069616
+Bluebikes,bluebikes,1676a6f7-c417-48d2-92e8-5ce21995efc3,Tremont St at Hamilton Pl,02108,42.35675589876239,-71.06159031
+Bluebikes,bluebikes,8bc42f7f-753d-4cca-a7d6-0d7c2530ea2c,Tremont St at Northampton St,02118,42.338431795290944,-71.0816905
+Bluebikes,bluebikes,342a2c60-71b0-4d19-98d6-47987cf20dbc,Tremont St at W. Dedham St,02118,42.34254913737952,-71.07421449
+Bluebikes,bluebikes,f83487f0-0de8-11e7-991c-3863bb43a7d0,Tremont St at West St,02111,42.354979,-71.063348
+Bluebikes,bluebikes,83183df0-38c2-4ae8-a0c4-4b59599c9582,Troy Boston,02118,42.343749,-71.062256
+Bluebikes,bluebikes,2080157934789007958,Truman Parkway at Fairmount Ave,02136,42.252287,-71.118358
+Bluebikes,bluebikes,f8346803-0de8-11e7-991c-3863bb43a7d0,Union Square - Brighton Ave at Cambridge St,02134,42.353334,-71.137313
+Bluebikes,bluebikes,f834a838-0de8-11e7-991c-3863bb43a7d0,University of Massachusetts Boston - Campus Center,02125,42.31218918475612,-71.03648586
+Bluebikes,bluebikes,f834ea45-0de8-11e7-991c-3863bb43a7d0,Uphams Corner,02125,42.31732396659862,-71.06555946
+Bluebikes,bluebikes,f8352306-0de8-11e7-991c-3863bb43a7d0,Uphams Corner T Stop - Magnolia St at Dudley St,02125,42.318697341722434,-71.06978148
+Bluebikes,bluebikes,3a6d94a7-9fee-41c5-b8cc-a8487c5e691b,Valenti Way at Haverhill St,02114,42.36473898691789,-71.05934903
+Bluebikes,bluebikes,f8350c56-0de8-11e7-991c-3863bb43a7d0,W Broadway at D St,02127,42.3391085,-71.0514432
+Bluebikes,bluebikes,f834db9b-0de8-11e7-991c-3863bb43a7d0,W Broadway at Dorchester St,02127,42.33595897943309,-71.046229
+Bluebikes,bluebikes,2109111257926871498,Walbridge St at Commonwealth Ave,02134,42.34708220716352,-71.1345887
+Bluebikes,bluebikes,2129149628430547474,Walk Hill St at American Legion,02131,42.28801503,-71.10730608
+Bluebikes,bluebikes,2219705277630124418,Walnut Ave at Humboldt Ave,02119,42.32072017,-71.08632798
+Bluebikes,bluebikes,2327cb08-fa9f-459b-9ab0-1a319b0f2f4c,Walnut Ave at School St,02121,42.311877,-71.0964068
+Bluebikes,bluebikes,f8352534-0de8-11e7-991c-3863bb43a7d0,Walnut Ave at Warren St,02119,42.324081,-71.083235
+Bluebikes,bluebikes,2087949096844032050,Warren Ave at Dartmouth St,02116,42.34431047,-71.07403393
+Bluebikes,bluebikes,f834b183-0de8-11e7-991c-3863bb43a7d0,Warren St at Chelsea St,02129,42.371848,-71.060292
+Bluebikes,bluebikes,829fa5a8-cc88-4ab2-9f34-b481aaa1612e,Washington St at Bowdoin St,02124,42.29916497936589,-71.07345872
+Bluebikes,bluebikes,f8351255-0de8-11e7-991c-3863bb43a7d0,Washington St at Brock St,02135,42.34895285,-71.16031677
+Bluebikes,bluebikes,510239fe-69c3-458b-b53c-6ce001845f4a,Washington St at Corey Rd,02135,42.34237144862031,-71.14018044
+Bluebikes,bluebikes,acb27827-d69a-4287-b132-3f529ca62ad2,Washington St at Denton Terr,02131,42.280728147169015,-71.13423757
+Bluebikes,bluebikes,f83486ab-0de8-11e7-991c-3863bb43a7d0,Washington St at Lenox St,02118,42.335625,-71.078359
+Bluebikes,bluebikes,f8352378-0de8-11e7-991c-3863bb43a7d0,Washington St at Melnea Cass Blvd,02119,42.332817,-71.081198
+Bluebikes,bluebikes,2113559364250874028,Washington St at Mina Way,02135,42.35292339212328,-71.17326746
+Bluebikes,bluebikes,2072145327190878794,Washington St at Northampton St,02118,42.33625888,-71.07756446
+Bluebikes,bluebikes,295553ea-851b-4ac2-a094-f9d1208e399a,Washington St at Peters Park,02118,42.342958,-71.067052
+Bluebikes,bluebikes,f8348021-0de8-11e7-991c-3863bb43a7d0,Washington St at Rutland St,02118,42.3385146,-71.07404083
+Bluebikes,bluebikes,eb8824c3-9c84-4fec-8d6f-d537c8ab3beb,Washington St at Talbot Ave,02124,42.290333,-71.071806
+Bluebikes,bluebikes,1991922092203192944,Washington St at Temple Pl,02110,42.35496799,-71.06097685
+Bluebikes,bluebikes,2090158541932726550,Washington St at W Dedham St,02118,42.34033571273476,-71.0717993
+Bluebikes,bluebikes,12d463d2-ce50-43bd-81b1-6be4dbdbbc1b,Washington St at Walsh Playground,02126,42.27719469639791,-71.06955614
+Bluebikes,bluebikes,f8347361-0de8-11e7-991c-3863bb43a7d0,Washington St at Waltham St,02118,42.34157471873748,-71.0689044
+Bluebikes,bluebikes,f8353277-0de8-11e7-991c-3863bb43a7d0,Watermark Seaport - Boston Wharf Rd at Seaport Blvd,02210,42.351586001198456,-71.04569256
+Bluebikes,bluebikes,f8350be5-0de8-11e7-991c-3863bb43a7d0,Wentworth Institute of Technology - Huntington Ave at Vancouver St,02115,42.33758601097239,-71.09627098
+Bluebikes,bluebikes,2014865445230483952,Western Ave at Everett St,02134,42.363168,-71.134719
+Bluebikes,bluebikes,2038981933682610536,Western Ave at Leo Birmingham Pkwy,02135,42.36155856,-71.14506038
+Bluebikes,bluebikes,82b41ffb-e284-4e4d-b22a-0cad2bfd4bee,Whittier St Health Center,02120,42.33286288486264,-71.09218862
+Bluebikes,bluebikes,c202f2ca-ec1d-4dc5-a734-e0a342f23ba4,Williams St at Washington St,02130,42.306539,-71.107669
+Bluebikes,bluebikes,2070180968009321294,Wood Island T Stop - Vienna St at Bennington St,02128,42.380024,-71.024441
+Bluebikes,bluebikes,a83f982f-a4f1-43e4-98e8-c8f4a0bb7290,1200 Beacon St,02446,42.34414898749529,-71.11467361
+Bluebikes,bluebikes,2251186911126913182,99 Harvard St,02446,42.336389,-71.120917
+Bluebikes,bluebikes,2251556760922290606,Babcock St at Dwight St,02446,42.345889,-71.121639
+Bluebikes,bluebikes,f8349ed6-0de8-11e7-991c-3863bb43a7d0,Beacon St at Tappan St,02445,42.33826680058037,-71.13894682
+Bluebikes,bluebikes,f8351ff1-0de8-11e7-991c-3863bb43a7d0,Brookline Town Hall,02445,42.33376472623494,-71.12046447
+Bluebikes,bluebikes,f834a32d-0de8-11e7-991c-3863bb43a7d0,Brookline Village MBTA at Pearl Street,02445,42.33274392304887,-71.11626681
+Bluebikes,bluebikes,ea65c25f-0718-4f79-8588-c58b9fe3a105,Commonwealth Ave At Babcock St,02446,42.35154734791375,-71.12126246
+Bluebikes,bluebikes,f83494b4-0de8-11e7-991c-3863bb43a7d0,Coolidge Corner - Beacon St at Centre St,02446,42.341598,-71.123338
+Bluebikes,bluebikes,f83517fa-0de8-11e7-991c-3863bb43a7d0,Cypress St at Clark Playground,02445,42.32784317478686,-71.12536222
+Bluebikes,bluebikes,a439fff7-8630-464c-b277-efca6f6bc664,Harvard St and Stedman St,02446,42.34435176,-71.12490356
+Bluebikes,bluebikes,186accbb-6a08-4e1d-b267-9033c4443a56,High St at Cypress St,02445,42.32464510949409,-71.12135231
+Bluebikes,bluebikes,f834b5d9-0de8-11e7-991c-3863bb43a7d0,JFK Crossing at Harvard St. / Thorndike St.,02446,42.346551241753566,-71.12833211
+Bluebikes,bluebikes,0daf7408-7a15-4d2b-8c39-f1a097cdbe85,Marion St at Harvard St,02446,42.34012242696642,-71.12070564
+Bluebikes,bluebikes,2248987790637065652,Marion St at Park St,02446,42.340152,-71.123866
+Bluebikes,bluebikes,2249415127458891992,Parkway Rd at Brookline Ave,02445,42.335423,-71.111443
+Bluebikes,bluebikes,2250817396738253956,Pleasant St at Beacon St,02446,42.342722,-71.12025
+Bluebikes,bluebikes,1cced911-b428-4cfd-81be-3a8f77ce7379,St Mary's,02446,42.346197076555455,-71.10728681
+Bluebikes,bluebikes,f8351f1d-0de8-11e7-991c-3863bb43a7d0,Tappan St at Brookline Hills MBTA,02445,42.331370168043215,-71.12688361
+Bluebikes,bluebikes,270ad97d-035d-472a-9827-76d3187afc56,Washington Sq,02446,42.33985827126298,-71.13421171
+Bluebikes,bluebikes,2249419943962214726,Washington St at Pond Ave,02445,42.331805,-71.113557
+Bluebikes,bluebikes,1965873511294959658,101 Smith Place,02138,42.392568,-71.150761
+Bluebikes,bluebikes,2223046412750968128,125 Cambridgepark Dr,02140,42.395856980560616,-71.14510801
+Bluebikes,bluebikes,1921360868231155718,325 Binney St.,02141,42.36722,-71.08903
+Bluebikes,bluebikes,f834cf45-0de8-11e7-991c-3863bb43a7d0,359 Broadway - Broadway at Fayette Street,02139,42.370803,-71.104412
+Bluebikes,bluebikes,1984021766354634770,40 Thorndike St,02141,42.369061,-71.079999
+Bluebikes,bluebikes,609c2f06-310e-4134-8dd2-3d23aa41487b,55 Wheeler Street,02138,42.390821,-71.143946
+Bluebikes,bluebikes,93381e13-cd04-4e10-ac81-9f5926aa01d5,699 Mt Auburn St,02138,42.37500235137831,-71.14871614
+Bluebikes,bluebikes,9e9be067-c6bb-41de-9491-eda69d24d6de,700 Huron Ave,02138,42.380788172914286,-71.15412891
+Bluebikes,bluebikes,133d159e-a202-4310-910f-eca392fe181e,75 Binney St,02142,42.36550728505653,-71.0801376
+Bluebikes,bluebikes,bd3d4824-7203-4edc-a314-cea2b413e886,84 Cambridgepark Dr,02140,42.3936,-71.143941
+Bluebikes,bluebikes,abefafdc-c772-4671-86fe-fc15a42adebb,87-101 Cambridgepark Drive,02140,42.39522187031066,-71.14421904
+Bluebikes,bluebikes,00802fe6-4268-4dc8-8f55-0dbbc1665ce6,955 Mass Ave,02139,42.36895180540729,-71.1099878
+Bluebikes,bluebikes,f8351649-0de8-11e7-991c-3863bb43a7d0,Alewife MBTA at Steel Place,02140,42.39558845716709,-71.14260614
+Bluebikes,bluebikes,f834fd36-0de8-11e7-991c-3863bb43a7d0,Alewife Station at Russell Field,02140,42.3956791,-71.140864
+Bluebikes,bluebikes,02a4416f-80b4-4472-accd-5db482ed5b6d,Alpine Path at Concord Ave,02138,42.38536765218425,-71.13775671
+Bluebikes,bluebikes,dd05a440-f881-410c-a071-864da11c634a,Ames St at Broadway,02142,42.3636929,-71.0875672
+Bluebikes,bluebikes,f834b99d-0de8-11e7-991c-3863bb43a7d0,Ames St at Main St,02142,42.3625,-71.08822
+Bluebikes,bluebikes,9fef6df2-7f8f-43fc-a85b-7dd5453860f9,Berkshire Street at Cambridge Street,02141,42.37207657915397,-71.08995434
+Bluebikes,bluebikes,f834cfd8-0de8-11e7-991c-3863bb43a7d0,Binney St / Sixth St,02141,42.36608797388682,-71.08633604
+Bluebikes,bluebikes,2225590560002383786,Broad Canal Way North,02142,42.363219,-71.082811
+Bluebikes,bluebikes,2d32e355-faee-407b-9bb7-45d80ffb059a,Broad Canal Way at Third Street,02142,42.36304549626695,-71.08287079
+Bluebikes,bluebikes,ce55d1b1-4267-40a9-ad44-5eab888ce18a,Broadway at Kittie Knox Bike Path,02141,42.36412658996667,-71.08738632
+Bluebikes,bluebikes,fe90d430-d33f-48b2-a5cd-bc161b220939,Cambridge Crossing at North First Street,02141,42.371141,-71.076198
+Bluebikes,bluebikes,7560f0e3-267b-4fb3-bbfa-6e02010cfcb7,Cambridge Dept. of Public Works -147 Hampshire St.,02139,42.37119727759414,-71.09759867
+Bluebikes,bluebikes,f834abfd-0de8-11e7-991c-3863bb43a7d0,Cambridge Main Library at Broadway / Trowbridge St,02138,42.373379,-71.111075
+Bluebikes,bluebikes,f834ab92-0de8-11e7-991c-3863bb43a7d0,Cambridge St - at Columbia St / Webster Ave,02141,42.3730725,-71.0943981
+Bluebikes,bluebikes,f834a1de-0de8-11e7-991c-3863bb43a7d0,Cambridgeside Pl at Land Blvd,02141,42.366929,-71.076512
+Bluebikes,bluebikes,2241260819676115550,Center Plaza,02141,42.364275,-71.08773
+Bluebikes,bluebikes,f8349b20-0de8-11e7-991c-3863bb43a7d0,Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St,02139,42.366426,-71.105495
+Bluebikes,bluebikes,f8349440-0de8-11e7-991c-3863bb43a7d0,Central Square at Mass Ave / Essex St,02139,42.36507,-71.1031
+Bluebikes,bluebikes,f83520d8-0de8-11e7-991c-3863bb43a7d0,Child Street at Brian P. Murphy Staircase,02141,42.37197678467975,-71.07200496
+Bluebikes,bluebikes,800bde2c-51df-497c-ac2d-bc3a8c00c164,Church St,02138,42.37433925370521,-71.11966431
+Bluebikes,bluebikes,940638c5-7cd0-4a11-899e-86af3868d400,Concord Ave at Spinelli Place,02138,42.390719,-71.1538877
+Bluebikes,bluebikes,2149920539832638004,Craigie St at Brattle St/Sparks St,02138,42.377923377417865,-71.13006027
+Bluebikes,bluebikes,f834fb66-0de8-11e7-991c-3863bb43a7d0,Dana Park,02139,42.36178043960605,-71.10809952
+Bluebikes,bluebikes,f834fc57-0de8-11e7-991c-3863bb43a7d0,Danehy Park,02140,42.388966,-71.132788
+Bluebikes,bluebikes,a9d13461-7f0f-47b0-9a97-8ec9e9792865,Danehy Park at New Street,02138,42.389456,-71.139019
+Bluebikes,bluebikes,8347c34d-68df-404b-ac58-7a387cc3ce4b,Discovery Park - 30 Acorn Park Drive,02140,42.39790817368333,-71.14797131
+Bluebikes,bluebikes,f834fda2-0de8-11e7-991c-3863bb43a7d0,EF - North Point Park,02141,42.369885,-71.069957
+Bluebikes,bluebikes,1944724820826878816,Elevate at One Leighton,02141,42.369931,-71.073526
+Bluebikes,bluebikes,1331197c-f6c6-4f4a-a29b-95e580359886,Fresh Pond Reservation,02138,42.3832,-71.1429
+Bluebikes,bluebikes,dcd76e42-eebc-4432-9726-cdb3372b0b07,Galileo Galilei Way at Fulkerson St/Binney St,02141,42.3664204,-71.0885418
+Bluebikes,bluebikes,13918b3b-9ac5-4968-a74d-e40dd3bc952e,Galileo Galilei Way at Main Street,02141,42.363003781560096,-71.08974038
+Bluebikes,bluebikes,f9524971-e9f9-4572-aebc-580e48de042f,Gore Street at Lambert Street,02141,42.373079797934935,-71.08634234
+Bluebikes,bluebikes,f606593b-3d07-40f2-bc6d-a0eb96588e44,Graham and Parks School - Linnaean St at Walker St,02138,42.38294430172271,-71.12449831
+Bluebikes,bluebikes,f834952a-0de8-11e7-991c-3863bb43a7d0,Harvard Kennedy School at Bennett St / Eliot St,02138,42.3722168,-71.12188071
+Bluebikes,bluebikes,f834a67b-0de8-11e7-991c-3863bb43a7d0,Harvard Law School at Mass Ave / Jarvis St,02138,42.378352,-71.119902
+Bluebikes,bluebikes,f8349745-0de8-11e7-991c-3863bb43a7d0,Harvard Square at Brattle St / Eliot St,02138,42.373328798874056,-71.12098601
+Bluebikes,bluebikes,f83497b9-0de8-11e7-991c-3863bb43a7d0,Harvard Square at Mass Ave/ Dunster,02138,42.373268,-71.118579
+Bluebikes,bluebikes,70f20fcb-8e63-4015-9007-b97c525ab0a9,Harvard St at Greene-Rose Heritage Park,02139,42.36599432867437,-71.09522222
+Bluebikes,bluebikes,f834ba08-0de8-11e7-991c-3863bb43a7d0,Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St,02138,42.377945,-71.116865
+Bluebikes,bluebikes,f834c5c9-0de8-11e7-991c-3863bb43a7d0,Harvard University Gund Hall at Quincy St / Kirkland St,02138,42.376369,-71.114025
+Bluebikes,bluebikes,f834a3a0-0de8-11e7-991c-3863bb43a7d0,Harvard University Housing - 115 Putnam Ave at Peabody Terrace,02138,42.366621,-71.114214
+Bluebikes,bluebikes,f834b652-0de8-11e7-991c-3863bb43a7d0,Harvard University Radcliffe Quadrangle at Shepard St / Garden St,02138,42.380287,-71.125107
+Bluebikes,bluebikes,f834b101-0de8-11e7-991c-3863bb43a7d0,Harvard University River Houses at DeWolfe St / Cowperthwaite St,02138,42.369239074859216,-71.11687034
+Bluebikes,bluebikes,2261583246847893606,Hastings Square,02139,42.355713,-71.109708
+Bluebikes,bluebikes,f8351569-0de8-11e7-991c-3863bb43a7d0,Huron Ave At Vassal Lane,02138,42.381650612901176,-71.13426981
+Bluebikes,bluebikes,2104f242-2dde-4ec0-8197-4454b1021ac1,Inman Square at Springfield St.,02139,42.37426713524931,-71.10026479
+Bluebikes,bluebikes,93911aa1-b5e4-48aa-a2b6-38fbcf613006,John Ahern Field at Kennedy-Longfellow School,02141,42.36903566594827,-71.0863096
+Bluebikes,bluebikes,f834fcbe-0de8-11e7-991c-3863bb43a7d0,Kendall Street,02142,42.36355792885784,-71.08217631
+Bluebikes,bluebikes,f8351e42-0de8-11e7-991c-3863bb43a7d0,Kendall T,02142,42.36242784,-71.08495474
+Bluebikes,bluebikes,9ca92778-9101-48df-90ea-08b784e26a1a,Kennedy-Longfellow School 158 Spring St,02141,42.36955297756508,-71.08579015
+Bluebikes,bluebikes,f8349824-0de8-11e7-991c-3863bb43a7d0,Lafayette Square at Mass Ave / Main St / Columbia St,02139,42.36346469304347,-71.10057324
+Bluebikes,bluebikes,2027855476515070160,Lechmere Canal Park,02141,42.36984,-71.076079
+Bluebikes,bluebikes,f8351336-0de8-11e7-991c-3863bb43a7d0,Lesley University,02140,42.38674802045056,-71.11901879
+Bluebikes,bluebikes,f834d064-0de8-11e7-991c-3863bb43a7d0,Linear Park - Mass. Ave. at Cameron Ave. ,02140,42.397898,-71.129808
+Bluebikes,bluebikes,f834b8b3-0de8-11e7-991c-3863bb43a7d0,Lower Cambridgeport at Magazine St / Riverside Rd,02139,42.357218503176526,-71.11387163
+Bluebikes,bluebikes,f1cafe36-f800-41f6-b74d-73953cb6394c,MIT Carleton St at Amherst St,02142,42.36054174140606,-71.08669817
+Bluebikes,bluebikes,533620e8-00ff-494a-b288-bd67602bc98e,MIT Hayward St at Amherst St,02142,42.36085937353302,-71.08551858
+Bluebikes,bluebikes,f835141c-0de8-11e7-991c-3863bb43a7d0,MIT Pacific St at Purrington St,02139,42.35957320109044,-71.10129476
+Bluebikes,bluebikes,f8349de4-0de8-11e7-991c-3863bb43a7d0,MIT Stata Center at Vassar St / Main St,02139,42.36213123,-71.09115601
+Bluebikes,bluebikes,f8351490-0de8-11e7-991c-3863bb43a7d0,MIT Vassar St,02139,42.35560121327927,-71.10394478
+Bluebikes,bluebikes,f83493c0-0de8-11e7-991c-3863bb43a7d0,MIT at Mass Ave / Amherst St,02139,42.3583056,-71.0932723
+Bluebikes,bluebikes,0208190e-851c-417d-8bc7-1b218db97fbf,Main Street/Albany Street/Technology Square,02139,42.3629016,-71.0915669
+Bluebikes,bluebikes,f6df6c1a-064f-428a-951c-2069a081b9df,Mass Ave at Albany St,02139,42.36135837662249,-71.09670274
+Bluebikes,bluebikes,1e3beeb4-f8e1-452c-93e5-48df78d4b313,Mass Ave at Hadley/Walden,02140,42.39120971915856,-71.12260755
+Bluebikes,bluebikes,986068c4-d11a-465a-b8d0-bd0960c57f51,Mass Ave/Lafayette Square,02139,42.36356498989399,-71.10044184
+Bluebikes,bluebikes,d7ec834e-9d9a-402c-9956-7d5f42676b94,Moore Youth Center,02139,42.363539,-71.111698
+Bluebikes,bluebikes,9721c80e-fc8f-474f-8918-b68c041d2836,Morgan Ave at North First St,02141,42.372174331756334,-71.07588925
+Bluebikes,bluebikes,f83514f9-0de8-11e7-991c-3863bb43a7d0,Mt Auburn,02138,42.37481748605736,-71.13319492
+Bluebikes,bluebikes,f83515d8-0de8-11e7-991c-3863bb43a7d0,Museum of Science,02142,42.36769018024484,-71.07116282
+Bluebikes,bluebikes,1919521884659886482,O'Brien Highway at First Street,02141,42.370982,-71.076638
+Bluebikes,bluebikes,f834ff5a-0de8-11e7-991c-3863bb43a7d0,O'Neill Library,02140,42.392766,-71.129042
+Bluebikes,bluebikes,dede6d5f-7d62-496e-a8ca-d5a64afe39c1,Old Morse Park at Putnam Ave,02139,42.35766247889882,-71.10841334
+Bluebikes,bluebikes,f8349672-0de8-11e7-991c-3863bb43a7d0,One Broadway / Kendall Sq at Main St / 3rd St,02142,42.36224178650923,-71.08311072
+Bluebikes,bluebikes,f834a7d1-0de8-11e7-991c-3863bb43a7d0,One Kendall Square at Hampshire St / Portland St,02139,42.366277,-71.09169
+Bluebikes,bluebikes,a825b55d-3ab3-481f-9c50-d3a7313e6843,One Memorial Drive,02142,42.36166313878279,-71.08029352
+Bluebikes,bluebikes,f834cb89-0de8-11e7-991c-3863bb43a7d0,Porter Square Station,02140,42.387995,-71.119084
+Bluebikes,bluebikes,ff938129-8179-455c-9ac9-9fcb9fc0b6d5,Raymond Park at Walden St,02140,42.38736953747185,-71.12761001
+Bluebikes,bluebikes,2259733531216984776,Rindge Field,02140,42.390528,-71.12775
+Bluebikes,bluebikes,f834fede-0de8-11e7-991c-3863bb43a7d0,Rogers St & Land Blvd,02141,42.366446738529454,-71.07654601
+Bluebikes,bluebikes,5bc7cba9-f0b0-442d-932c-e8c7927d87ce,Sennott Park Broadway at Norfolk Street,02139,42.36860524248197,-71.09930186
+Bluebikes,bluebikes,f83516b8-0de8-11e7-991c-3863bb43a7d0,Sidney Research Campus/Erie Street at Waverly,02139,42.35775309465199,-71.10393405
+Bluebikes,bluebikes,38706d8c-8d4b-49f7-b6ed-7688449db261,Smith Pl at Wilson Rd,02138,42.39239749145834,-71.15058332
+Bluebikes,bluebikes,f8351726-0de8-11e7-991c-3863bb43a7d0,Third at Binney,02142,42.36544486137399,-71.08277142
+Bluebikes,bluebikes,f83513a7-0de8-11e7-991c-3863bb43a7d0,University Park,02139,42.36264779118595,-71.10006094
+Bluebikes,bluebikes,2127634714741013228,Vassal Lane at Tobin VLUS,02138,42.384233,-71.140329
+Bluebikes,bluebikes,fbb9b58c-2b92-4bcf-8e4c-a982e40d2f39,Verizon Innovation Hub 10 Ware Street,02138,42.37250864997261,-71.11305356
+Bluebikes,bluebikes,1989983491501558234,615 Broadway,02150,42.394541,-71.030828
+Bluebikes,bluebikes,199f3d59-e726-4549-b9c1-4dfc8a343fdb,855 Broadway,02150,42.398417726101584,-71.02390923
+Bluebikes,bluebikes,e49a5b83-2c9c-4610-a48b-89cfea172c8f,Bellingham Square,02150,42.39319611,-71.0334456
+Bluebikes,bluebikes,f35de2ab-979e-42d5-8cbd-dc479ed637e9,Cary Square,02150,42.398135645582464,-71.03070972
+Bluebikes,bluebikes,f36e24cd-de4c-4a5e-adf4-cb97ccd2958d,Chelsea Square,02150,42.39022671103383,-71.03857018
+Bluebikes,bluebikes,1a661bb7-7d14-49e9-ac3d-22bafec8a2f0,Chelsea Station,02150,42.39636527849676,-71.03987179
+Bluebikes,bluebikes,53a148ca-ac69-4a9c-a986-9a4b4df2f5df,7 Acre Park,02149,42.41143222973408,-71.06823265
+Bluebikes,bluebikes,13444449-b3a8-43d2-b8b9-a59fbc59a174,Broadway at Beacham St,02149,42.39836059620832,-71.06373843
+Bluebikes,bluebikes,3f4f4ad4-a715-43d5-828f-f8381f26b66a,Broadway at Lynde St,02149,42.39648358247693,-71.0654676
+Bluebikes,bluebikes,f0f01d4c-ba4a-4ab2-9cc0-9fa1f9223300,Broadway at Maple St,02149,42.410346909767846,-71.05260458
+Bluebikes,bluebikes,a75d3da1-ce74-447f-8e80-52506a81aff3,Chelsea St at Vine St,02149,42.40336946230013,-71.04731441
+Bluebikes,bluebikes,f7d416f8-4377-4019-bba7-302dc1d5a11d,Encore,02149,42.39329263225162,-71.0724476
+Bluebikes,bluebikes,25489822-e43a-4704-b2a8-d905b78ba77c,Everett Square (Broadway at Norwood St),02149,42.407381,-71.055356
+Bluebikes,bluebikes,d22265a8-a6d7-4922-a6b5-4be738a9e5c4,Glendale Square (Ferry St at Broadway),02149,42.41427294293992,-71.04479656
+Bluebikes,bluebikes,4f25f6ef-236b-43b4-8a92-68a24db0504b,Gramsdorf Playground,02149,42.408156,-71.0429
+Bluebikes,bluebikes,228b8017-e4da-4722-9223-b8279a14b8ad,Hale Park,02149,42.41532709603205,-71.0528183
+Bluebikes,bluebikes,e68655be-23d3-46e5-a509-25be677e7542,Kearins Playground,02149,42.40616124132245,-71.06041655
+Bluebikes,bluebikes,1986302395589722758,Northern Strand - West St & Wellington Ave,02149,42.403444,-71.063278
+Bluebikes,bluebikes,fe534b6f-61ad-47d3-b9f6-cdaa128f53a4,Pope John High School,02149,42.42034870164503,-71.04419768
+Bluebikes,bluebikes,2223045710883822544,Santilli Hwy,02149,42.40592508816271,-71.06697537
+Bluebikes,bluebikes,4b5de733-9353-4873-9dc2-9558b3cb063a,Swan St. Park,02149,42.412504507772105,-71.05842225
+Bluebikes,bluebikes,2079440939380771716,Kierstead Park ,02148,42.42933838,-71.0519129
+Bluebikes,bluebikes,f714390d-6874-43fa-a079-a07f83c79c7b,Malden Center T Station,02148,42.426541,-71.073179
+Bluebikes,bluebikes,e4678b17-face-42c3-9b5f-98418d31e3b6,Malden High School,02148,42.426537658440544,-71.06393695
+Bluebikes,bluebikes,2100948177843249670,Maplewood Square,02148,42.43359,-71.046279
+Bluebikes,bluebikes,2078337213380274244,Northern Strand at Bike Kitchen ,02148,42.420627,-71.072175
+Bluebikes,bluebikes,eee3aab6-bd98-4d1f-8887-9c4e2adce482,Northern Strand at Main St,02148,42.42386,-71.067793
+Bluebikes,bluebikes,768433a9-fc30-4485-b136-22d6f8a96f1c,Auburn St. at Mystic River,02155,42.41759089672136,-71.12608128
+Bluebikes,bluebikes,1976280681456741062,Carr Park,02155,42.434365,-71.094755
+Bluebikes,bluebikes,1976642295079838524,Governors Ave at Lawrence Rd,02155,42.424952,-71.111554
+Bluebikes,bluebikes,4d953f0f-13b5-4b3d-b2da-342003ff7cba,Haines Square,02155,42.423331368452885,-71.09124541
+Bluebikes,bluebikes,42a3ecca-af9a-4556-90ba-7631546f96f8,Harris Park,02155,42.41081837243052,-71.08152866
+Bluebikes,bluebikes,1942556871369959976,Hickey Park,02155,42.424981,-71.098973
+Bluebikes,bluebikes,910f1452-dbeb-4e69-b226-71b2d7e85715,Hormel Stadium,02155,42.40721644126376,-71.09651506
+Bluebikes,bluebikes,5410aac7-2ec0-47b6-b728-b99c5137b463,Logan Park,02155,42.41800742890374,-71.09657221
+Bluebikes,bluebikes,6cec3afa-554c-466f-8323-5c619fe0ddc6,Main St at Brooks Park,02155,42.411709,-71.110444
+Bluebikes,bluebikes,6aebc664-1e3c-479f-8f65-2bae99215ed3,Medford Sq - Riverside Ave at River St,02155,42.417724,-71.108102
+Bluebikes,bluebikes,2254164250455119196,Myrtle St at Fellsway (Rt. 28),02155,42.416235,-71.085073
+Bluebikes,bluebikes,2124664048772581794,Mystic Ave at Crescent St,02155,42.41081,-71.106276
+Bluebikes,bluebikes,1976640911178291400,Steve Miller Dr at Winthrop St (Medford High),02155,42.428086,-71.12636
+Bluebikes,bluebikes,ee0fa23e-a6c2-474d-a6ef-bf581d63f1ae,Tufts Sq - Main St at Medford St,02155,42.401697,-71.106128
+Bluebikes,bluebikes,8a404180-7c2e-4dbe-9489-c478ed959282,Wellington MBTA,02155,42.4023682,-71.07573182
+Bluebikes,bluebikes,dc770287-c70c-43ea-a635-39f3dc6b09cd,West Medford Square (Bower St at Harvard Ave),02155,42.420647,-71.133483
+Bluebikes,bluebikes,1997031876360597884,Winthrop Circle,02155,42.421361,-71.117556
+Bluebikes,bluebikes,6e340d8e-45db-4fd9-b6eb-b74ec73b0d3e,Auburndale,02466,42.34805541493346,-71.24775946
+Bluebikes,bluebikes,01d29f8c-768d-4c4f-84ca-3de966075287,Bacon St at Washington St,02458,42.35711920909866,-71.18604537
+Bluebikes,bluebikes,dd8dee9d-d044-41d6-9371-8463cf9c671b,Beacon at Walnut,02461,42.33006232,-71.20668411
+Bluebikes,bluebikes,ccd6fdd4-b39e-46d7-b43c-7bacffb6bd87,Boston College T,02467,42.33987891612856,-71.16708934
+Bluebikes,bluebikes,3de6e5da-9702-4623-8683-26abd98012a8,California at Chapel,02458,42.365148708129546,-71.20236039
+Bluebikes,bluebikes,c23a4c0d-7e43-4042-80e2-7c894d07763b,Centre St at Commonwealth Ave,02459,42.3362358,-71.1934421
+Bluebikes,bluebikes,9f582e05-15e0-4a39-aef5-c719e0c78e26,Centre St at Washington St,02458,42.35574334805774,-71.18641943
+Bluebikes,bluebikes,3c837bc0-fd08-49c4-adf5-0e9a98e918a7,Newton Highlands T,02461,42.322065656952944,-71.20637298
+Bluebikes,bluebikes,d8ce5f8b-2440-45e1-ab1c-23cb3bcbde84,Newton Library,02459,42.33620336883013,-71.20779455
+Bluebikes,bluebikes,ad2fb6f2-921f-440c-83de-08be76e35c2a,Nonantum Library,02458,42.36068455768156,-71.201462
+Bluebikes,bluebikes,9340e113-e0b2-48ac-b58a-8b6f001b0a94,Union St at Herrick Rd,02459,42.329607,-71.193701
+Bluebikes,bluebikes,2256120653476329202,Upper Falls Greenway Pettee Square,02464,42.30920039,-71.22031015
+Bluebikes,bluebikes,918335df-fc1a-45c2-9cfc-c5e2e93aecc0,Washington St at Crafts St,02458,42.35389024396587,-71.19943707
+Bluebikes,bluebikes,903b9b5d-4244-43e4-8441-0d17f9a994f7,Washington St at Walnut St,02460,42.351458116963016,-71.20764971
+Bluebikes,bluebikes,77c1736c-a609-4453-94f7-8e4253a8193c,Watertown St at Albemarle Rd,02460,42.354104081396585,-71.21382214
+Bluebikes,bluebikes,7dd0fc98-c1dd-4c93-9c1d-4bbdf5f93346,West Newton,02465,42.34960049864208,-71.22627497
+Bluebikes,bluebikes,2035765531590062506,Beachmont Square at Suffolk Downs,02151,42.3976083,-70.99307222
+Bluebikes,bluebikes,2264176803898382980,DeSalvo Park,02151,42.419917,-71.018222
+Bluebikes,bluebikes,1994461916590643872,Eliot Circle Revere Beach,02151,42.402889,-70.989972
+Bluebikes,bluebikes,2246034666940677832,Griswald Fields ,02151,42.42821,-71.02316
+Bluebikes,bluebikes,2098360140389493528,Northern Strand at Salem Street,02151,42.441956,-71.01468
+Bluebikes,bluebikes,e335fa7c-7adf-4360-9bfa-76b18124a56f,Orr Sq (Shirley Ave),02151,42.40715655698643,-70.9927243
+Bluebikes,bluebikes,1994466222105870452,Revere Beach - Markey Footbridge,02151,42.414019,-70.989609
+Bluebikes,bluebikes,aa556ad4-0092-4687-96c2-8dbc69addb56,Revere City Hall,02151,42.40741,-71.0139
+Bluebikes,bluebikes,7feae3ce-ddf2-4a45-a123-1209c8a9182b,Revere Public Library,02151,42.408088,-71.008942
+Bluebikes,bluebikes,13d4171b-6d93-490e-923f-f2a17d5c7613,Bridge Street Neck,01970,42.52810051875824,-70.88971138
+Bluebikes,bluebikes,a51b429f-bf06-425a-b3fe-b3155aa6468c,Derby Street,01970,42.520096183311445,-70.89139044
+Bluebikes,bluebikes,54d86d05-b399-42c5-a63a-a97713afc5d4,Essex St at Dalton Parkway,01970,42.516223,-70.905535
+Bluebikes,bluebikes,2151136782588526782,Flint St. at Bridge St.,01970,42.521393,-70.905806
+Bluebikes,bluebikes,52485851-e554-49de-ab9f-f536806d2d34,Forest River Park,01970,42.506395,-70.88693
+Bluebikes,bluebikes,b44b7c3d-c054-4591-92a9-3b96d86050ab,Goodhue St at Grove St,01970,42.520897,-70.910528
+Bluebikes,bluebikes,f4a64c30-b97f-4ae5-b531-a11698b558d7,Hawthorne Boulevard,01970,42.5223714,-70.8903331
+Bluebikes,bluebikes,5f8ced09-665c-41e5-b67e-1e58fac21830,Lafayette at Leach St,01970,42.51142784358897,-70.89183301
+Bluebikes,bluebikes,ee18dbd6-05b8-4d38-a120-f84c3499a77e,Mayor Salvo Path at Mill St,01970,42.51803519796769,-70.89570075
+Bluebikes,bluebikes,15ec5783-ca7a-4225-ba51-cd0a45ecc975,North St at Liberty Hill Ave,01970,42.52989964975891,-70.90614259
+Bluebikes,bluebikes,5f726a7d-5c5d-48b1-9b13-06c77572a237,Salem Ferry Landing,01970,42.52189284110247,-70.88069111
+Bluebikes,bluebikes,6eaa7343-402d-41c9-9aac-8c664fdbdcf1,Salem MBTA - Lower Level,01970,42.523994,-70.89684
+Bluebikes,bluebikes,40e58976-02cc-4c7c-911f-7a6c97588bfa,Salem MBTA - Washington at Federal St,01970,42.52345239346618,-70.89611113
+Bluebikes,bluebikes,c111ef1a-f276-415d-a95e-8e3c4e3a0c03,Salem State University - Bike Path at Loring Ave,01970,42.50216179172424,-70.89492308
+Bluebikes,bluebikes,12141b77-6e5f-444b-bace-2abf16db4fee,Salem State University - North Campus,01970,42.5031926,-70.8895622
+Bluebikes,bluebikes,ef6ef93b-488f-496b-afbf-3aedfd967129,Salem Willows Park,01970,42.53466911383265,-70.8702144
+Bluebikes,bluebikes,57f5003b-6574-40b3-83d7-3b5dee1472e0,Shetland Park - Congress at Peabody St,01970,42.51836788262243,-70.88952363
+Bluebikes,bluebikes,888780ee-bf2f-474e-9622-6bc725aa1b00,Vinnin Square,01970,42.48628784971989,-70.90166733
+Bluebikes,bluebikes,ec3eea05-a3ff-43c6-9e24-0c63f09b915f,191 Beacon St,02143,42.38032335045416,-71.10878613
+Bluebikes,bluebikes,f2b83aa2-86cd-4904-a099-74bf2023f768,30 Dane St,02143,42.38100143038052,-71.10402523
+Bluebikes,bluebikes,7c860828-3359-4229-b59b-963f5a4bab00,Assembly Square T,02145,42.39223284004628,-71.07746601
+Bluebikes,bluebikes,f834b49d-0de8-11e7-991c-3863bb43a7d0,Ball Sq,02144,42.39936816059618,-71.11111522
+Bluebikes,bluebikes,f8349d6e-0de8-11e7-991c-3863bb43a7d0,Beacon St at Washington / Kirkland,02138,42.37875351212593,-71.10707223
+Bluebikes,bluebikes,d81e16e2-a410-4a0b-b5ae-b72748fc9781,Boynton Yards at 101 South Street,02143,42.37546,-71.091217
+Bluebikes,bluebikes,f8352068-0de8-11e7-991c-3863bb43a7d0,Broadway St at Mt Pleasant St,02145,42.38614141163957,-71.0782814
+Bluebikes,bluebikes,625f105e-4407-4988-9095-d1979cbda5e1,Broadway at Central St,02145,42.39517150121575,-71.09850592
+Bluebikes,bluebikes,1a39ab83-f029-4134-aad4-35380b30bf2c,Chestnut St at Poplar St,02143,42.377636,-71.085954
+Bluebikes,bluebikes,f834c7a9-0de8-11e7-991c-3863bb43a7d0,Clarendon Hill at Broadway,02144,42.405862,-71.131787
+Bluebikes,bluebikes,7df1ee28-441e-44c1-8507-8f58946be96b,Community Path at Cedar Street,02144,42.39407223665884,-71.11133695
+Bluebikes,bluebikes,380de8b2-2728-4e4b-83f1-251bfbb5acf2,Community Path at Lowell St,02144,42.392525,-71.105587
+Bluebikes,bluebikes,f8349599-0de8-11e7-991c-3863bb43a7d0,Conway Park - Somerville Avenue,02143,42.383638948222654,-71.10853672
+Bluebikes,bluebikes,2014558273483754010,Conway Park at Central Street (Temporary Winter Location),02143,42.38338951163148,-71.10732447
+Bluebikes,bluebikes,403c0f6c-d01a-4171-a7be-3aa4dbb0d7d1,Craigie St at Summer St,02143,42.38831607584243,-71.11068249
+Bluebikes,bluebikes,f834b42d-0de8-11e7-991c-3863bb43a7d0,Davis Square,02144,42.396969,-71.123024
+Bluebikes,bluebikes,25cc602a-152a-4abe-9df8-a131d0a5d94b,East Somerville Library (Broadway and Illinois),02145,42.38762811,-71.08318716
+Bluebikes,bluebikes,42886366-9cbf-432c-ba84-beef38877c87,Edgerly Education Center,02145,42.38717463348314,-71.08714389
+Bluebikes,bluebikes,0bc49982-74e9-4bbf-9991-e3d809d6319e,Foley St at Grand Union Blvd,02145,42.39301840035393,-71.08071685
+Bluebikes,bluebikes,f8351dc2-0de8-11e7-991c-3863bb43a7d0,Foss Park,02145,42.39108438146733,-71.09039426
+Bluebikes,bluebikes,57716f8d-c9ee-4768-8872-71343ec3ffd8,Gilman Square T at Medford St,02143,42.3867355,-71.0946444
+Bluebikes,bluebikes,1963273678015717438,Grand Union Blvd at Revolution Dr,02145,42.391658,-71.080351
+Bluebikes,bluebikes,baab0b05-a028-4147-8432-a2726c7e48ea,Grove St at Community Path,02144,42.39638681,-71.12011306
+Bluebikes,bluebikes,2028220168245183460,Innerbelt at East Somerville Station,02143,42.37862876872397,-71.08489506
+Bluebikes,bluebikes,f834f8ca-0de8-11e7-991c-3863bb43a7d0,Magoun Square at Trum Field,02145,42.39778339961249,-71.10594004
+Bluebikes,bluebikes,2141791438824588162,Middlesex Ave at Foley St,02145,42.392821,-71.083186
+Bluebikes,bluebikes,f834c6f5-0de8-11e7-991c-3863bb43a7d0,Packard Ave at Powderhouse Blvd,02155,42.40449,-71.123413
+Bluebikes,bluebikes,5bbdd12f-fec4-4741-9d5d-4a60834c5d02,Perry Park,02143,42.37927324600841,-71.10341903
+Bluebikes,bluebikes,f834b50a-0de8-11e7-991c-3863bb43a7d0,Powder House Circle - Nathan Tufts Park,02144,42.400877,-71.116772
+Bluebikes,bluebikes,f8349ba9-0de8-11e7-991c-3863bb43a7d0,Somerville City Hall,02143,42.386844,-71.09812
+Bluebikes,bluebikes,88b35b6d-f355-44dc-b85e-ed2eb1bc9099,Somerville City Hall Annex,02145,42.39189811591863,-71.09745376
+Bluebikes,bluebikes,61168d8b-20b7-46c8-8f08-6ae1f100c4e0,Somerville High School & Central Library,02143,42.3864,-71.09601
+Bluebikes,bluebikes,be7e7068-b85f-42c1-8ea1-e1d64e531323,Somerville Hospital,02143,42.39055353140935,-71.10869047
+Bluebikes,bluebikes,f834caf2-0de8-11e7-991c-3863bb43a7d0,Teele Square,02144,42.40087950159558,-71.12590793
+Bluebikes,bluebikes,f8349c69-0de8-11e7-991c-3863bb43a7d0,Union Square - Somerville,02143,42.37964789967527,-71.09540476
+Bluebikes,bluebikes,569f4952-5a25-4394-a419-f9c4d9cca6f3,Union Square East,02143,42.380078,-71.090098
+Bluebikes,bluebikes,a3bf0bfe-198b-4160-a2fb-cc7d10cfb4cf,Union Square Station,02143,42.377309,-71.094428
+Bluebikes,bluebikes,13681246-4bf8-444a-a908-fa165e4ad298,Washington St at Myrtle St,02145,42.3817508,-71.0839523
+Bluebikes,bluebikes,2253794653988522864,Webster Ave at Norfolk St,02143,42.374606,-71.094757
+Bluebikes,bluebikes,f834b1ed-0de8-11e7-991c-3863bb43a7d0,Wilson Square,02143,42.38567578752914,-71.11412136
+Bluebikes,bluebikes,1ef5abb2-5af9-41f2-a0dd-1e44278ad9f1,160 Arsenal St,02472,42.36466403441681,-71.17569387
+Bluebikes,bluebikes,2027502297316997708,99 Coolidge Ave,02472,42.363675,-71.151786
+Bluebikes,bluebikes,68e5e79a-3c94-4848-b619-9c0829d7f687,Arsenal Yards,02472,42.36277388549605,-71.15764854
+Bluebikes,bluebikes,1963613484180639992,Arsenal on the Charles,02472,42.36349850640871,-71.16421658
+Bluebikes,bluebikes,634b697d-0e64-4102-8849-abac7a7f8e35,Coolidge Sq.,02472,42.37251369069782,-71.15708406
+Bluebikes,bluebikes,2036103727838931110,Galen St at Watertown St,02472,42.36428,-71.18573
+Bluebikes,bluebikes,d5349097-b478-4b3f-9c46-d8fbcf38e3f4,Nichols Ave. at Watertown-Cambridge Greenway,02472,42.36762048745005,-71.15656637
+Bluebikes,bluebikes,518f6524-0e7f-454d-974e-e3ff9db1f795,Watertown City Hall,02472,42.36759307632294,-71.18751436
+Bluebikes,bluebikes,66763558-7a03-48a9-8665-6b4445b81f48,Watertown Sq,02472,42.365260317694485,-71.18573324
+Bluebikes,bluebikes,1986694622707704150,Watertown St at 5th Ave,02472,42.36289,-71.19127
+Coast Provincetown,coast_ptown,coast_ptown_29,Provincetown (town center),02657,42.0584,-70.1786
+Coast Provincetown,coast_ptown,coast_ptown_30,Truro (town center),02666,41.9934,-70.0497
+Metro Mobility E-Bike Share,metro_mobility,metro_mobility_1,McGovern Transportation Center,01950,42.70184634,-71.15199475
+Metro Mobility E-Bike Share,metro_mobility,metro_mobility_2,LRTA - Lowell,01852,42.63660055,-71.31470455
+Metro Mobility E-Bike Share,metro_mobility,metro_mobility_3,NBPT Crossing,01950,42.79994591,-70.87898773
+Metro Mobility E-Bike Share,metro_mobility,metro_mobility_4,City Hall - Newton,02459,42.3378733,-71.20974875
+Metro Mobility E-Bike Share,metro_mobility,metro_mobility_5,Arlington Point - Lawrence,01841,42.71545662,-71.18093109
+Metro Mobility E-Bike Share,metro_mobility,metro_mobility_6,City Hall - Lawrence,01840,42.70828982,-71.16026552
+Metro Mobility E-Bike Share,metro_mobility,metro_mobility_7,Davis - Solar Powered,02144,42.39715442,-71.12332515
+Metro Mobility E-Bike Share,metro_mobility,metro_mobility_8,Gateway Lot - Lawrence,01840,42.70785353,-71.15151073
+Metro Mobility E-Bike Share,metro_mobility,metro_mobility_9,Southern Artery - Quincy,02169,42.24188328,-70.98389202
+Metro Mobility E-Bike Share,metro_mobility,metro_mobility_10,The Loop at Mattapan Station,02126,42.26872502,-71.09224295
+Metro Mobility E-Bike Share,metro_mobility,metro_mobility_11,Harbor Point on the Bay,02125,42.31960793,-71.04104776
+Metro Mobility E-Bike Share,metro_mobility,metro_mobility_12,201 Stuart St - Delivery,02116,42.35098089,-71.06815256
+Metro Mobility E-Bike Share,metro_mobility,metro_mobility_13,La Prise Village - MHA,02155,42.41101012,-71.0973305
+Metro Mobility E-Bike Share,metro_mobility,metro_mobility_14,WRTA Central Hub,01604,42.2616,-71.7948
+Minuteman Regional Bike Share,minuteman,minuteman_1,"Bruce Freeman, Acton-Brook t",01720,42.49386564,-71.41887909
+Minuteman Regional Bike Share,minuteman,minuteman_2,"Bruce Freeman, East Acton",01720,42.47824834,-71.41428279
+Minuteman Regional Bike Share,minuteman,minuteman_3,South Acton MBTA,01720,42.45998864,-71.45610232
+Minuteman Regional Bike Share,minuteman,minuteman_4,Concord Visitor Center,01742,42.46028428,-71.35089188
+Minuteman Regional Bike Share,minuteman,minuteman_5,West Concord,01742,42.45823118,-71.39344462
+Minuteman Regional Bike Share,minuteman,minuteman_6,Lincoln MBTA,01773,42.4136,-71.3254
+Minuteman Regional Bike Share,minuteman,minuteman_7,Maynard Town Hall,01754,42.43032022,-71.46153337
+Port Bikeshare,port_bikeshare,port_bikeshare_1,American Yacht Club,01950,42.81019263,-70.86244789
+Port Bikeshare,port_bikeshare,port_bikeshare_2,March's Hill,01950,42.80222794,-70.86408696
+Port Bikeshare,port_bikeshare,port_bikeshare_3,Market Landing Park East,01950,42.81261298,-70.86897665
+Port Bikeshare,port_bikeshare,port_bikeshare_4,Parker Street/ Newburyport MBTA,01950,42.79815,-70.87815
+Port Bikeshare,port_bikeshare,port_bikeshare_5,Washington St,01950,42.81108019,-70.87707521
+Sandy Pedals,sandy_pedals,sandy_pedals_28,Nantucket (town center),02554,41.2835,-70.0995
+Valleybike,valleybike,valleybike_1,AIC Drop Hub,01109,42.113675,-72.55770931
+Valleybike,valleybike,valleybike_2,Amherst Town Hall Hub,01002,42.37546799,-72.51954277
+Valleybike,valleybike,valleybike_3,Basketball Hall of Fame Drop Hub,01105,42.09496787,-72.58541941
+Valleybike,valleybike,valleybike_4,Baystate Main St Drop Hub,01107,42.12436275,-72.61022079
+Valleybike,valleybike,valleybike_5,Baystate Village Drop Hub,01062,42.32055222,-72.66400773
+Valleybike,valleybike,valleybike_6,Baystate/ Chestnut street Drop Hub,01107,42.11998971,-72.60503615
+Valleybike,valleybike,valleybike_7,Chicopee City Hall Drop Hub,01013,42.14884767,-72.60627898
+Valleybike,valleybike,valleybike_8,Chicopee Falls Drop Hub,01020,42.15323609,-72.58451277
+Valleybike,valleybike,valleybike_9,City Hall Drop Hub,01027,42.26521172,-72.66923683
+Valleybike,valleybike,valleybike_10,Conz St Drop Hub,01060,42.31320142,-72.6272435
+Valleybike,valleybike,valleybike_11,Cooley Dickinson Drop Hub,01060,42.33145034,-72.65341817
+Valleybike,valleybike,valleybike_12,Court Square Drop Hub,01103,42.10091618,-72.5894469
+Valleybike,valleybike,valleybike_13,Depot Square Drop Hub,01040,42.20462315,-72.60284507
+Valleybike,valleybike,valleybike_14,Downtown Drop Hub,01040,42.20771226,-72.6083708
+Valleybike,valleybike,valleybike_15,East Hadley Road Hub,01002,42.35153187,-72.52630467
+Valleybike,valleybike,valleybike_16,El Corazon,01040,42.20084499,-72.60604376
+Valleybike,valleybike,valleybike_17,Ely Court,01040,42.2065055,-72.59877022
+Valleybike,valleybike,valleybike_18,Florence Ctr Drop Hub,01062,42.33489798,-72.66792456
+Valleybike,valleybike,valleybike_19,Forbes Library Drop Hub,01060,42.31669821,-72.63591548
+Valleybike,valleybike,valleybike_20,Forest Park - Belmont / Oakland Drop Hub,01108,42.0870772,-72.56414758
+Valleybike,valleybike,valleybike_21,HCC Drop Hub,01040,42.19497312,-72.65242099
+Valleybike,valleybike,valleybike_22,Highland Ave,01089,42.15923999,-72.63377253
+Valleybike,valleybike,valleybike_23,Holyoke Medical Center Drop Hub,01040,42.20428241,-72.61201551
+Valleybike,valleybike,valleybike_24,Jackson St Drop Hub,01060,42.33729027,-72.64273506
+Valleybike,valleybike,valleybike_25,John M Greene Drop bike parking,01063,42.31973018,-72.63820609
+Valleybike,valleybike,valleybike_26,Kendrick Park Hub,01002,42.38019108,-72.51964195
+Valleybike,valleybike,valleybike_27,Kenefick Drop Hub,01107,42.11630489,-72.61306205
+Valleybike,valleybike,valleybike_28,King St Drop Hub,01060,42.33329258,-72.63518726
+Valleybike,valleybike,valleybike_29,Leeds Village Drop Hub,01053,42.35342663,-72.70057113
+Valleybike,valleybike,valleybike_30,Lilly Library Drop Hub,01062,42.33564641,-72.67388859
+Valleybike,valleybike,valleybike_31,LiveWell Drop Hub,01104,42.11530726,-72.59419151
+Valleybike,valleybike,valleybike_32,MGM Drop bike hub,01105,42.09877105,-72.58543248
+Valleybike,valleybike,valleybike_33,Mackenzie Field,01040,42.20190401,-72.61975933
+Valleybike,valleybike,valleybike_34,Main St / Bridge St Drop Hub,01060,42.32031513,-72.62855557
+Valleybike,valleybike,valleybike_35,Main St / Courthouse Drop Hub,01060,42.3194203,-72.63011494
+Valleybike,valleybike,valleybike_36,Mason Square Library Drop Hub,01109,42.11061119,-72.56594724
+Valleybike,valleybike,valleybike_37,Memorial and Main,01089,42.09677969,-72.60032413
+Valleybike,valleybike,valleybike_38,Mill St Drop Hub,01108,42.09046314,-72.57665489
+Valleybike,valleybike,valleybike_39,Millside Park Drop Hub,01027,42.2742103,-72.6589743
+Valleybike,valleybike,valleybike_40,Mitteneague School,01089,42.103796,-72.63867293
+Valleybike,valleybike,valleybike_41,Mount Holyoke College Drop Hub,01075,42.25913995,-72.57505042
+Valleybike,valleybike,valleybike_42,Myrtle Park Drop Hub,01151,42.1597688,-72.50535688
+Valleybike,valleybike,valleybike_43,N King Drop Hub,01060,42.34053145,-72.642597
+Valleybike,valleybike,valleybike_44,NHS Drop Hub,01060,42.32519055,-72.64971176
+Valleybike,valleybike,valleybike_45,North Pleasant Street Hub,01002,42.40355163,-72.5294105
+Valleybike,valleybike,valleybike_46,Northampton Train Drop Hub,01060,42.3181827,-72.62723055
+Valleybike,valleybike,valleybike_47,Olver Transit Hub,01085,42.1222152,-72.74888225
+Valleybike,valleybike,valleybike_48,Parsons Drop Hub,01027,42.27376499,-72.65221359
+Valleybike,valleybike,valleybike_49,Peasants Park Drop Hub,01040,42.20754134,-72.61511366
+Valleybike,valleybike,valleybike_50,Pleasant St Drop Hub,01040,42.21094025,-72.62074591
+Valleybike,valleybike,valleybike_51,Prospect Place Drop Hub,01060,42.33823426,-72.6479639
+Valleybike,valleybike,valleybike_52,Pulaski Park Drop Hub,01060,42.31753804,-72.63331702
+Valleybike,valleybike,valleybike_53,Pynchon Park Drop Hub,01103,42.10343907,-72.58675342
+Valleybike,valleybike,valleybike_54,Rivers Park Drop Hub,01013,42.18552282,-72.60922093
+Valleybike,valleybike,valleybike_55,Ruth Elizabeth Park Drop Hub,01105,42.09796334,-72.56624108
+Valleybike,valleybike,valleybike_56,S Holyoke Drop Hub,01040,42.19762924,-72.60382647
+Valleybike,valleybike,valleybike_57,STCC Drop Hub,01105,42.10896766,-72.5779148
+Valleybike,valleybike,valleybike_58,Samuel Bolden Park Drop Hub,01109,42.10583273,-72.56010594
+Valleybike,valleybike,valleybike_59,South East Street Hub,01002,42.3726543,-72.50144935
+Valleybike,valleybike,valleybike_60,South End Drop Hub,01105,42.09740299,-72.5823234
+Valleybike,valleybike,valleybike_61,Springdale Park Drop Hub,01040,42.18940707,-72.62160925
+Valleybike,valleybike,valleybike_62,State St Rail Trail Drop Hub,01060,42.32837391,-72.63567341
+Valleybike,valleybike,valleybike_63,Stearns Square Drop Hub,01103,42.1043237,-72.59096387
+Valleybike,valleybike,valleybike_64,The Pedlar Drop Hub,01040,42.19873777,-72.6308976
+Valleybike,valleybike,valleybike_65,UMass Central Residential Hub,01003,42.38982992,-72.51939268
+Valleybike,valleybike,valleybike_66,UMass Haigis Mall Hub,01003,42.38725821,-72.52693009
+Valleybike,valleybike,valleybike_67,UMass ILC Hub,01003,42.39142216,-72.52552693
+Valleybike,valleybike,valleybike_68,UMass Knowlton Hub,01003,42.39375632,-72.52587079
+Valleybike,valleybike,valleybike_69,UMass Southwest Hub,01002,42.38487162,-72.53099785
+Valleybike,valleybike,valleybike_70,UMass Sylvan Residential Hub,01003,42.39729255,-72.52148629
+Valleybike,valleybike,valleybike_71,Union Station Drop Hub,01103,42.1064152,-72.59489371
+Valleybike,valleybike,valleybike_72,Union Trail Drop Hub,01027,42.26704727,-72.67040922
+Valleybike,valleybike,valleybike_73,University Drive Hub,01002,42.36824839,-72.53333339
+Valleybike,valleybike,valleybike_74,Village Hill Drop Hub,01060,42.31199138,-72.64748175
+Valleybike,valleybike,valleybike_75,West Springfield Library Drop Hub,01089,42.10501667,-72.62190688
+Valleybike,valleybike,valleybike_76,West Street Hub,01002,42.34114207,-72.51963984
+Valleybike,valleybike,valleybike_77,Westfield Big Y Drop Hub,01085,42.11393938,-72.74702391
+Valleybike,valleybike,valleybike_78,Westfield State University Drop Hub,01086,42.12904614,-72.79334895
+Valleybike,valleybike,valleybike_79,Woodlawn Plaza Drop Hub,01075,42.23710655,-72.58276101
+Valleybike,valleybike,valleybike_80,YMCA Drop Hub,01060,42.32855238,-72.64407127
+Valleybike,valleybike,valleybike_81,Grape St Drop Hub,01013,42.14520452,-72.603697
+Valleybike,valleybike,valleybike_82,Westover Road Drop Hub,01022,42.18448874,-72.56364636

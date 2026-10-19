@@ -1,0 +1,245 @@
+station_id,station_name,municipality,routes,rt_weekday_ons,cr_weekday_ons,nearest_bikeshare,bikeshare_mi,latitude,longitude
+place-alfcl,Alewife,Cambridge,Red Line,7211.0,,Alewife Station at Russell Field (Bluebikes),0.02,42.39583,-71.141287
+place-davis,Davis,Somerville,Red Line,5919.0,,Davis Square (Bluebikes),0.06,42.39674,-71.121815
+place-portr,Porter,Cambridge,Red Line; Fitchburg Line,5169.0,676.0,Porter Square Station (Bluebikes),0.03,42.3884,-71.119149
+place-harsq,Harvard,Cambridge,Red Line,12981.0,,Harvard Square at Mass Ave/ Dunster (Bluebikes),0.02,42.373362,-71.118956
+place-cntsq,Central,Cambridge,Red Line,10395.0,,Central Square at Mass Ave / Essex St (Bluebikes),0.05,42.365486,-71.103802
+place-knncl,Kendall/MIT,Cambridge,Red Line,11276.0,,Kendall T (Bluebikes),0.06,42.3624908,-71.0861765
+place-chmnl,Charles/MGH,Boston,Red Line,8423.0,,Charles Circle - Charles St at Cambridge St (Bluebikes),0.04,42.361166,-71.070628
+place-pktrm,Park Street,Boston,Red Line; Green Line B; Green Line C; Green Line D; Green Line E,39104.0,,Park Street T Stop - Tremont St at Park St (Bluebikes),0.02,42.3563946,-71.0624242
+place-dwnxg,Downtown Crossing,Boston,Red Line; Orange Line,40299.0,,Washington St at Temple Pl (Bluebikes),0.05,42.355518,-71.060225
+place-sstat,South Station,Boston,Red Line; Fairmount Line; Fall River/New Bedford Line; Framingham/Worcester Line; Franklin/Foxboro Line; Greenbush Line; Kingston Line; Needham Line; Providence/Stoughton Line,17719.0,22467.0,Surface Rd at Summer St (Bluebikes),0.08,42.352271,-71.055242
+place-brdwy,Broadway,Boston,Red Line,4319.0,,Broadway T Stop (Bluebikes),0.06,42.342622,-71.056967
+place-andrw,Andrew,Boston,Red Line,4523.0,,Andrew T Stop - Dorchester Ave (West) (Bluebikes),0.03,42.330154,-71.057655
+place-jfk,JFK/UMass,Boston,Red Line; Fall River/New Bedford Line; Greenbush Line; Kingston Line,8030.0,1095.0,Sydney St at Carson St (Bluebikes),0.06,42.320685,-71.052391
+place-shmnl,Savin Hill,Boston,Red Line,1858.0,,Savin Hill T Stop - S Sydney St at Bay St (Bluebikes),0.06,42.31129,-71.053331
+place-fldcr,Fields Corner,Boston,Red Line,3630.0,,Fields Corner T Stop (Bluebikes),0.06,42.300093,-71.061667
+place-smmnl,Shawmut,Boston,Red Line,1634.0,,Shawmut T Stop (Bluebikes),0.01,42.2931258,-71.065738
+place-asmnl,Ashmont,Boston,Red Line,6356.0,,Ashmont T Stop (Bluebikes),0.08,42.28452,-71.063777
+place-nqncy,North Quincy,Quincy,Red Line,4010.0,,Pope John Paul II Park - Neponset Trail at Hallet St (Bluebikes),0.9,42.275275,-71.029583
+place-wlsta,Wollaston,Quincy,Red Line,3342.0,,Pope John Paul II Park - Neponset Trail at Hallet St (Bluebikes),1.61,42.2665139,-71.0203369
+place-qnctr,Quincy Center,Quincy,Red Line; Fall River/New Bedford Line; Greenbush Line; Kingston Line,4880.0,801.0,Southern Artery - Quincy (Metro Mobility),1.3,42.251809,-71.005409
+place-qamnl,Quincy Adams,Quincy,Red Line,2138.0,,Southern Artery - Quincy (Metro Mobility),1.33,42.233391,-71.007153
+place-brntn,Braintree,Braintree,Red Line; Fall River/New Bedford Line; Greenbush Line; Kingston Line,3151.0,538.0,Southern Artery - Quincy (Metro Mobility),2.51,42.2078543,-71.0011385
+place-forhl,Forest Hills,Boston,Orange Line; Franklin/Foxboro Line; Needham Line; Providence/Stoughton Line,9486.0,521.0,Forest Hills (Bluebikes),0.02,42.300713,-71.113943
+place-grnst,Green Street,Boston,Orange Line,2583.0,,Green Street T Stop - Green St at Amory St (Bluebikes),0.01,42.310525,-71.107414
+place-sbmnl,Stony Brook,Boston,Orange Line,2515.0,,Stony Brook T Stop (Bluebikes),0.01,42.317062,-71.104248
+place-jaksn,Jackson Square,Boston,Orange Line,4474.0,,Jackson Square T Stop (Bluebikes),0.03,42.323132,-71.099592
+place-rcmnl,Roxbury Crossing,Boston,Orange Line,4369.0,,Roxbury Crossing T Stop - Columbus Ave at Tremont St (Bluebikes),0.02,42.331397,-71.095451
+place-rugg,Ruggles,Boston,Orange Line; Franklin/Foxboro Line; Needham Line; Providence/Stoughton Line,9105.0,3166.0,Ruggles Station (CargoB),0.05,42.336377,-71.088961
+place-masta,Massachusetts Avenue,Boston,Orange Line,4786.0,,Mass Ave T Stop (Bluebikes),0.01,42.341512,-71.083423
+place-bbsta,Back Bay,Boston,Orange Line; Framingham/Worcester Line; Franklin/Foxboro Line; Needham Line; Providence/Stoughton Line,13416.0,6786.0,Back Bay T Stop - Dartmouth St at Stuart St (Bluebikes),0.07,42.34735,-71.075727
+place-tumnl,Tufts Medical Center,Boston,Orange Line,5540.0,,Harrison Ave at Bennet St (Bluebikes),0.09,42.349662,-71.063917
+place-chncl,Chinatown,Boston,Orange Line,4985.0,,Chinatown T Stop (Bluebikes),0.01,42.352547,-71.062752
+place-state,State,Boston,Orange Line; Blue Line,24756.0,,Boston City Hall - 28 State St (Bluebikes),0.0,42.358978,-71.057598
+place-haecl,Haymarket,Boston,Orange Line; Green Line D; Green Line E,9256.0,,Boston Public Market - Surface Rd at Sudbury St (Bluebikes),0.05,42.363021,-71.05829
+place-north,North Station,Boston,Orange Line; Green Line D; Green Line E; Fitchburg Line; Haverhill Line; Lowell Line; Newburyport/Rockport Line,17583.0,11186.0,Canal St at Causeway St (Bluebikes),0.04,42.365577,-71.06129
+place-ccmnl,Community College,Boston,Orange Line,4072.0,,Bunker Hill Community College (Bluebikes),0.04,42.373622,-71.069533
+place-sull,Sullivan Square,Boston,Orange Line,4936.0,,Sullivan Square (Bluebikes),0.1,42.383975,-71.076994
+place-astao,Assembly,Somerville,Orange Line,4891.0,,Assembly Square T (Bluebikes),0.04,42.392811,-71.077257
+place-welln,Wellington,Medford,Orange Line,5017.0,,Wellington MBTA (Bluebikes),0.07,42.40237,-71.077082
+place-mlmnl,Malden Center,Malden,Orange Line; Haverhill Line,7586.0,101.0,Malden Center T Station (Bluebikes),0.05,42.426632,-71.07411
+place-ogmnl,Oak Grove,Malden,Orange Line; Haverhill Line,4396.0,38.0,Malden Center T Station (Bluebikes),0.71,42.43668,-71.071097
+place-bomnl,Bowdoin,Boston,Blue Line,2056.0,,Government Center - Cambridge St at Court St (Bluebikes),0.16,42.361365,-71.062037
+place-gover,Government Center,Boston,Blue Line; Green Line B; Green Line C; Green Line D; Green Line E,23693.0,,Tremont St at Court St (Bluebikes),0.03,42.359705,-71.059215
+place-aqucl,Aquarium,Boston,Blue Line,3876.0,,Aquarium T Stop - 200 Atlantic Ave (Bluebikes),0.01,42.359784,-71.051652
+place-mvbcl,Maverick,Boston,Blue Line,9592.0,,Maverick Square - Lewis Mall (Bluebikes),0.02,42.3691186,-71.0395296
+place-aport,Airport,Boston,Blue Line,7740.0,,Airport T Stop - Bremen St at Brooks St (Bluebikes),0.1,42.374262,-71.030395
+place-wimnl,Wood Island,Boston,Blue Line,1757.0,,Wood Island T Stop - Vienna St at Bennington St (Bluebikes),0.08,42.3796403,-71.0228654
+place-orhte,Orient Heights,Boston,Blue Line,4051.0,,Orient Heights T Stop - Bennington St at Saratoga St (Bluebikes),0.07,42.386867,-71.004736
+place-sdmnl,Suffolk Downs,Boston,Blue Line,780.0,,Orient Heights T Stop - Bennington St at Saratoga St (Bluebikes),0.53,42.3905007,-70.9971226
+place-bmmnl,Beachmont,Revere,Blue Line,3198.0,,Beachmont Square at Suffolk Downs (Bluebikes),0.04,42.3975423,-70.9923194
+place-rbmnl,Revere Beach,Revere,Blue Line,2927.0,,Orr Sq (Shirley Ave) (Bluebikes),0.05,42.4078425,-70.9925332
+place-wondl,Wonderland,Revere,Blue Line,4969.0,,Revere Beach - Markey Footbridge (Bluebikes),0.11,42.41342,-70.991648
+place-boyls,Boylston,Boston,Green Line B; Green Line C; Green Line D; Green Line E,4315.0,,Boylston T Stop (Bluebikes),0.05,42.35302,-71.06459
+place-armnl,Arlington,Boston,Green Line B; Green Line C; Green Line D; Green Line E,4714.0,,Boylston St at Berkeley St (Bluebikes),0.13,42.351902,-71.070893
+place-coecl,Copley,Boston,Green Line B; Green Line C; Green Line D; Green Line E,8376.0,,Copley Square - Dartmouth St at Boylston St (Bluebikes),0.0,42.349974,-71.077447
+place-hymnl,Hynes Convention Center,Boston,Green Line B; Green Line C; Green Line D,6249.0,,Massachusetts Ave at Boylston St. (Bluebikes),0.03,42.347888,-71.087903
+place-kencl,Kenmore,Boston,Green Line B; Green Line C; Green Line D,4424.0,,Kenmore Square - 660 Beacon St (Bluebikes),0.04,42.348949,-71.095169
+place-bland,Blandford Street,Boston,Green Line B,463.0,,Silber Way (Bluebikes),0.02,42.349293,-71.100258
+place-buest,Boston University East,Boston,Green Line B,474.0,,Commonwealth Ave at Granby St (Bluebikes),0.01,42.349735,-71.103889
+place-bucen,Boston University Central,Boston,Green Line B,493.0,,B.U. Central T Stop - 725 Commonwealth Ave (Bluebikes),0.08,42.350082,-71.106865
+place-amory,Amory Street,Boston,Green Line B,382.0,,Commonwealth Ave at Agganis Way (Bluebikes),0.22,42.350992,-71.114748
+place-babck,Babcock Street,Boston,Green Line B,388.0,,Commonwealth Ave at Agganis Way (Bluebikes),0.05,42.351616,-71.119924
+place-brico,Packard's Corner,Boston,Green Line B,638.0,,Commonwealth Ave at Naples Rd (Bluebikes),0.06,42.351967,-71.125031
+place-harvd,Harvard Avenue,Boston,Green Line B,880.0,,Royce Rd at Commonwealth Ave (Bluebikes),0.05,42.350243,-71.131355
+place-grigg,Griggs Street,Boston,Green Line B,577.0,,Walbridge St at Commonwealth Ave (Bluebikes),0.1,42.348545,-71.134949
+place-alsgr,Allston Street,Boston,Green Line B,599.0,,Commonwealth Ave at Kelton St (Bluebikes),0.11,42.348701,-71.137955
+place-wrnst,Warren Street,Boston,Green Line B,591.0,,Commonwealth Ave at Kelton St (Bluebikes),0.02,42.348343,-71.140457
+place-wascm,Washington Street,Boston,Green Line B,624.0,,Commonwealth Ave at Fidelis Way (Bluebikes),0.15,42.343864,-71.142853
+place-sthld,Sutherland Road,Boston,Green Line B,563.0,,Commonwealth Ave at Chiswick Rd (Bluebikes),0.3,42.341614,-71.146202
+place-chswk,Chiswick Road,Boston,Green Line B,510.0,,Commonwealth Ave at Chiswick Rd (Bluebikes),0.06,42.340805,-71.150711
+place-chill,Chestnut Hill Avenue,Boston,Green Line B,498.0,,Commonwealth Ave at Chestnut Hill Dr (Bluebikes),0.07,42.338169,-71.15316
+place-sougr,South Street,Boston,Green Line B,450.0,,Commonwealth Ave at Chestnut Hill Dr (Bluebikes),0.18,42.3396,-71.157661
+place-lake,Boston College,Boston,Green Line B,428.0,,Boston College T (Bluebikes),0.02,42.340081,-71.166769
+place-clmnl,Cleveland Circle,Boston,Green Line C,265.0,,Cleveland Circle (Bluebikes),0.08,42.336142,-71.149326
+place-engav,Englewood Avenue,Brookline,Green Line C,295.0,,Beacon St at Tappan St (Bluebikes),0.31,42.337104,-71.144852
+place-denrd,Dean Road,Brookline,Green Line C,266.0,,Beacon St at Tappan St (Bluebikes),0.17,42.337656,-71.142156
+place-tapst,Tappan Street,Brookline,Green Line C,336.0,,Beacon St at Tappan St (Bluebikes),0.02,42.338459,-71.138702
+place-bcnwa,Washington Square,Brookline,Green Line C,385.0,,Washington Sq (Bluebikes),0.07,42.339394,-71.13533
+place-fbkst,Fairbanks Street,Brookline,Green Line C,269.0,,Washington Sq (Bluebikes),0.16,42.339725,-71.131073
+place-bndhl,Brandon Hall,Brookline,Green Line C,242.0,,Washington Sq (Bluebikes),0.26,42.340023,-71.129082
+place-sumav,Summit Avenue,Brookline,Green Line C,348.0,,Marion St at Park St (Bluebikes),0.11,42.34111,-71.12561
+place-cool,Coolidge Corner,Brookline,Green Line C,957.0,,Pleasant St at Beacon St (Bluebikes),0.07,42.342116,-71.121263
+place-stpul,Saint Paul Street,Brookline,Green Line C,434.0,,1200 Beacon St (Bluebikes),0.13,42.343327,-71.116997
+place-kntst,Kent Street,Brookline,Green Line C,275.0,,1200 Beacon St (Bluebikes),0.02,42.344074,-71.114197
+place-hwsst,Hawes Street,Brookline,Green Line C,216.0,,1200 Beacon St (Bluebikes),0.19,42.344906,-71.111145
+place-smary,Saint Mary's Street,Brookline,Green Line C,429.0,,St Mary's (Bluebikes),0.02,42.345974,-71.107353
+place-river,Riverside,Newton,Green Line D,795.0,,Auburndale (Bluebikes),0.78,42.337352,-71.252685
+place-woodl,Woodland,Newton,Green Line D,172.0,,Auburndale (Bluebikes),1.07,42.332902,-71.243362
+place-waban,Waban,Newton,Green Line D,178.0,,Beacon at Walnut (Bluebikes),1.26,42.325845,-71.230609
+place-eliot,Eliot,Newton,Green Line D,215.0,,Newton Highlands T (Bluebikes),0.57,42.319045,-71.216684
+place-newtn,Newton Highlands,Newton,Green Line D,272.0,,Newton Highlands T (Bluebikes),0.05,42.322381,-71.205509
+place-newto,Newton Centre,Newton,Green Line D,317.0,,Union St at Herrick Rd (Bluebikes),0.07,42.329443,-71.192414
+place-chhil,Chestnut Hill,Newton,Green Line D,312.0,,Reservoir Rd at Beacon St (Bluebikes),0.48,42.326753,-71.164699
+place-rsmnl,Reservoir,Brookline,Green Line D,338.0,,Cleveland Circle (Bluebikes),0.1,42.335088,-71.148758
+place-bcnfd,Beaconsfield,Brookline,Green Line D,319.0,,Beacon St at Tappan St (Bluebikes),0.19,42.335765,-71.140455
+place-brkhl,Brookline Hills,Brookline,Green Line D,308.0,,Tappan St at Brookline Hills MBTA (Bluebikes),0.01,42.331316,-71.126683
+place-bvmnl,Brookline Village,Brookline,Green Line D,511.0,,Brookline Village MBTA at Pearl Street (Bluebikes),0.03,42.332608,-71.116857
+place-longw,Longwood,Brookline,Green Line D,417.0,,Pilgrim Rd at Brookline Ave (Bluebikes),0.27,42.341702,-71.109956
+place-fenwy,Fenway,Boston,Green Line D,419.0,,Park Dr at Buswell St (Bluebikes),0.14,42.345403,-71.104213
+place-spmnl,Science Park/West End,Boston,Green Line D; Green Line E,738.0,,Blossom St at Charles St (Bluebikes),0.18,42.366664,-71.067666
+place-lech,Lechmere,Cambridge,Green Line D; Green Line E,1481.0,,Lechmere Station (CargoB),0.03,42.371572,-71.076584
+place-unsqu,Union Square,Somerville,Green Line D,457.0,,Union Square Station (Bluebikes),0.02,42.377359,-71.094761
+place-hsmnl,Heath Street,Boston,Green Line E,178.0,,S Huntington at Heath St (Bluebikes),0.06,42.328316,-71.110252
+place-bckhl,Back of the Hill,Boston,Green Line E,199.0,,Washington St at Pond Ave (Bluebikes),0.16,42.330139,-71.111313
+place-rvrwy,Riverway,Boston,Green Line E,487.0,,Washington St at Pond Ave (Bluebikes),0.08,42.331684,-71.111931
+place-mispk,Mission Park,Boston,Green Line E,416.0,,Huntington Ave at Colburn St (Bluebikes),0.07,42.333195,-71.109756
+place-fenwd,Fenwood Road,Boston,Green Line E,297.0,,One Brigham Circle (Bluebikes),0.07,42.333706,-71.105728
+place-brmnl,Brigham Circle,Boston,Green Line E,646.0,,One Brigham Circle (Bluebikes),0.02,42.334229,-71.104609
+place-lngmd,Longwood Medical Area,Boston,Green Line E,574.0,,Huntington Ave at St. Alphonsus St (Bluebikes),0.04,42.33596,-71.100052
+place-mfa,Museum of Fine Arts,Boston,Green Line E,520.0,,Wentworth Institute of Technology - Huntington Ave at Vancouver St (Bluebikes),0.04,42.337711,-71.095512
+place-nuniv,Northeastern University,Boston,Green Line E,608.0,,Forsyth St at Huntington Ave (Bluebikes),0.1,42.340401,-71.088806
+place-symcl,Symphony,Boston,Green Line E,984.0,,Christian Science Plaza - Massachusetts Ave at Westland Ave (Bluebikes),0.08,42.342687,-71.085056
+place-prmnl,Prudential,Boston,Green Line E,2248.0,,Prudential Center - 101 Huntington Ave (Bluebikes),0.08,42.34557,-71.081696
+place-esomr,East Somerville,Somerville,Green Line E,215.0,,Innerbelt at East Somerville Station (Bluebikes),0.11,42.379467,-71.086625
+place-gilmn,Gilman Square,Somerville,Green Line E,1255.0,,Somerville City Hall (Bluebikes),0.1,42.387928,-71.096766
+place-mgngl,Magoun Square,Somerville,Green Line E,430.0,,Community Path at Lowell St (Bluebikes),0.09,42.393682,-71.1063879
+place-balsq,Ball Square,Medford,Green Line E,573.0,,Ball Sq (Bluebikes),0.04,42.399889,-71.111003
+place-mdftf,Medford/Tufts,Medford,Green Line E,1326.0,,Packard Ave at Powderhouse Blvd (Bluebikes),0.4,42.407975,-71.117044
+place-DB-0095,Readville,Boston,Fairmount Line; Franklin/Foxboro Line; Providence/Stoughton Line,,826.0,Truman Parkway at Fairmount Ave (Bluebikes),1.23,42.238405,-71.133246
+place-DB-2205,Fairmount,Boston,Fairmount Line; Franklin/Foxboro Line,,528.0,Truman Parkway at Fairmount Ave (Bluebikes),0.1,42.253638,-71.11927
+place-DB-2222,Blue Hill Avenue,Boston,Fairmount Line; Franklin/Foxboro Line,,419.0,Cummins Highway at Blue Hill Ave T Stop (Bluebikes),0.13,42.271466,-71.095782
+place-DB-2230,Morton Street,Boston,Fairmount Line; Franklin/Foxboro Line,,427.0,Morton St T (Bluebikes),0.04,42.280994,-71.085475
+place-DB-2240,Talbot Avenue,Boston,Fairmount Line; Franklin/Foxboro Line,,427.0,Talbot Ave T Station (Bluebikes),0.01,42.292246,-71.07814
+place-DB-2249,Four Corners/Geneva,Boston,Fairmount Line; Franklin/Foxboro Line,,424.0,Four Corners - 157 Washington St (Bluebikes),0.14,42.305037,-71.076833
+place-DB-2258,Uphams Corner,Boston,Fairmount Line; Franklin/Foxboro Line,,364.0,Uphams Corner T Stop - Magnolia St at Dudley St (Bluebikes),0.07,42.319125,-71.068627
+place-DB-2265,Newmarket,Boston,Fairmount Line; Franklin/Foxboro Line,,191.0,Newmarket Square T Stop - Massachusetts Ave at Newmarket Square (Bluebikes),0.07,42.327415,-71.065674
+place-NBM-0546,New Bedford,New Bedford,Fall River/New Bedford Line,,,Southern Artery - Quincy (Metro Mobility),41.39,41.643703,-70.9252
+place-NBM-0523,Church Street,New Bedford,Fall River/New Bedford Line,,,Southern Artery - Quincy (Metro Mobility),39.24,41.674308,-70.939322
+place-FRS-0109,Fall River Depot,Fall River,Fall River/New Bedford Line,,,Truman Parkway at Fairmount Ave (Bluebikes),37.2,41.713982,-71.154182
+place-FRS-0054,Freetown,Freetown,Fall River/New Bedford Line,,,Southern Artery - Quincy (Metro Mobility),32.78,41.773672,-71.090733
+place-NBM-0374,East Taunton,Taunton,Fall River/New Bedford Line,,,Southern Artery - Quincy (Metro Mobility),26.1,41.868197,-71.061694
+place-MBS-0350,Middleborough,Middleborough,Fall River/New Bedford Line,,,Southern Artery - Quincy (Metro Mobility),24.69,41.887,-70.923209
+place-MM-0277,Bridgewater,Bridgewater,Fall River/New Bedford Line,,529.0,Southern Artery - Quincy (Metro Mobility),17.76,41.984916,-70.96537
+place-MM-0219,Campello,Brockton,Fall River/New Bedford Line,,357.0,Southern Artery - Quincy (Metro Mobility),12.56,42.060951,-71.011004
+place-MM-0200,Brockton,Brockton,Fall River/New Bedford Line,,560.0,Southern Artery - Quincy (Metro Mobility),10.98,42.084659,-71.016534
+place-MM-0186,Montello,Brockton,Fall River/New Bedford Line,,467.0,Southern Artery - Quincy (Metro Mobility),9.54,42.106555,-71.022001
+place-MM-0150,Holbrook/Randolph,Randolph,Fall River/New Bedford Line,,406.0,Southern Artery - Quincy (Metro Mobility),6.31,42.156343,-71.027371
+place-FR-3338,Wachusett,Fitchburg,Fitchburg Line,,83.0,WRTA Central Hub (Metro Mobility),20.33,42.553477,-71.848488
+place-FR-0494,Fitchburg,Fitchburg,Fitchburg Line,,250.0,South Acton MBTA (Minuteman),19.1,42.58072,-71.792611
+place-FR-0451,North Leominster,Leominster,Fitchburg Line,,146.0,South Acton MBTA (Minuteman),15.45,42.539017,-71.739186
+place-FR-0394,Shirley,Shirley,Fitchburg Line,,103.0,South Acton MBTA (Minuteman),11.43,42.545089,-71.648004
+place-FR-0361,Ayer,Ayer,Fitchburg Line,,190.0,South Acton MBTA (Minuteman),9.62,42.559074,-71.588476
+place-FR-0301,Littleton/Route 495,Littleton,Fitchburg Line,,319.0,"Bruce Freeman, Acton-Brook t (Minuteman)",4.62,42.519236,-71.502643
+place-FR-0253,South Acton,Acton,Fitchburg Line,,463.0,South Acton MBTA (Minuteman),0.09,42.460375,-71.457744
+place-FR-0219,West Concord,Concord,Fitchburg Line,,263.0,West Concord (Minuteman),0.09,42.457043,-71.392892
+place-FR-0201,Concord,Concord,Fitchburg Line,,287.0,Concord Visitor Center (Minuteman),0.43,42.456565,-71.357677
+place-FR-0167,Lincoln,Lincoln,Fitchburg Line,,149.0,Lincoln MBTA (Minuteman),0.01,42.413641,-71.325512
+place-FR-0147,Silver Hill,Weston,Fitchburg Line,,,Lincoln MBTA (Minuteman),1.71,42.395625,-71.302357
+place-FR-0132,Kendal Green,Weston,Fitchburg Line,,130.0,Auburndale (Bluebikes),2.77,42.37897,-71.282411
+place-FR-0115,Brandeis/Roberts,Waltham,Fitchburg Line,,386.0,Auburndale (Bluebikes),1.14,42.361898,-71.260065
+place-FR-0098,Waltham,Waltham,Fitchburg Line,,460.0,West Newton (Bluebikes),1.77,42.374296,-71.235615
+place-FR-0074,Waverley,Belmont,Fitchburg Line,,179.0,Watertown City Hall (Bluebikes),1.39,42.3876,-71.190744
+place-FR-0064,Belmont,Belmont,Fitchburg Line,,163.0,Concord Ave at Spinelli Place (Bluebikes),1.2,42.395896,-71.17619
+place-WML-0442,Worcester,Worcester,Framingham/Worcester Line,,1139.0,WRTA Central Hub (Metro Mobility),0.02,42.261291,-71.794927
+place-WML-0364,Grafton,Grafton,Framingham/Worcester Line,,367.0,WRTA Central Hub (Metro Mobility),5.71,42.2466,-71.685325
+place-WML-0340,Westborough,Westborough,Framingham/Worcester Line,,409.0,WRTA Central Hub (Metro Mobility),7.59,42.269644,-71.647076
+place-WML-0274,Southborough,Southborough,Framingham/Worcester Line,,425.0,Maynard Town Hall (Minuteman),11.72,42.267024,-71.524371
+place-WML-0252,Ashland,Ashland,Framingham/Worcester Line,,393.0,Maynard Town Hall (Minuteman),11.7,42.26149,-71.482161
+place-WML-0214,Framingham,Framingham,Framingham/Worcester Line,,904.0,Auburndale (Bluebikes),10.13,42.276108,-71.420055
+place-WML-0199,West Natick,Natick,Framingham/Worcester Line,,533.0,Auburndale (Bluebikes),8.63,42.283064,-71.391797
+place-WML-0177,Natick Center,Natick,Framingham/Worcester Line,,419.0,Auburndale (Bluebikes),6.66,42.285719,-71.347133
+place-WML-0147,Wellesley Square,Wellesley,Framingham/Worcester Line,,470.0,Upper Falls Greenway Pettee Square (Bluebikes),3.87,42.297526,-71.294173
+place-WML-0135,Wellesley Hills,Wellesley,Framingham/Worcester Line,,301.0,Upper Falls Greenway Pettee Square (Bluebikes),2.91,42.31037,-71.277044
+place-WML-0125,Wellesley Farms,Wellesley,Framingham/Worcester Line,,247.0,Auburndale (Bluebikes),2.1,42.323608,-71.272288
+place-WML-0102,Auburndale,Newton,Framingham/Worcester Line,,171.0,Auburndale (Bluebikes),0.2,42.345833,-71.250373
+place-WML-0091,West Newton,Newton,Framingham/Worcester Line,,227.0,West Newton (Bluebikes),0.25,42.347878,-71.230528
+place-WML-0081,Newtonville,Newton,Framingham/Worcester Line,,421.0,Washington St at Walnut St (Bluebikes),0.12,42.351702,-71.205408
+place-WML-0035,Boston Landing,Boston,Framingham/Worcester Line,,1266.0,Boston Landing (Bluebikes),0.1,42.357293,-71.139883
+place-WML-0025,Lansdowne,Boston,Framingham/Worcester Line,,1348.0,Lansdowne T Stop (Bluebikes),0.02,42.347581,-71.099974
+place-NEC-2203,Hyde Park,Boston,Franklin/Foxboro Line; Providence/Stoughton Line,,435.0,Cleary Sq (Bluebikes),0.07,42.25503,-71.125526
+place-FB-0109,Endicott,Dedham,Franklin/Foxboro Line,,297.0,Cleary Sq (Bluebikes),2.34,42.233249,-71.158647
+place-FB-0118,Dedham Corporate Center,Dedham,Franklin/Foxboro Line,,437.0,Cleary Sq (Bluebikes),3.23,42.227079,-71.174254
+place-FB-0125,Islington,Westwood,Franklin/Foxboro Line,,166.0,Cleary Sq (Bluebikes),3.87,42.22105,-71.183961
+place-FB-0143,Norwood Depot,Norwood,Franklin/Foxboro Line,,451.0,Cleary Sq (Bluebikes),5.49,42.196857,-71.196688
+place-FB-0148,Norwood Central,Norwood,Franklin/Foxboro Line,,624.0,Cleary Sq (Bluebikes),6.01,42.188775,-71.199665
+place-FB-0166,Windsor Gardens,Norwood,Franklin/Foxboro Line,,228.0,Cleary Sq (Bluebikes),7.54,42.172127,-71.219366
+place-FB-0191,Walpole,Walpole,Franklin/Foxboro Line,,326.0,Cleary Sq (Bluebikes),10.23,42.145477,-71.25779
+place-FB-0230,Norfolk,Norfolk,Franklin/Foxboro Line,,430.0,Spring St at Powell St (Bluebikes),13.64,42.120694,-71.325217
+place-FB-0275,Franklin,Franklin,Franklin/Foxboro Line,,404.0,Spring St at Powell St (Bluebikes),17.96,42.083238,-71.396102
+place-FB-0303,Forge Park/495,Franklin,Franklin/Foxboro Line,,485.0,Upper Falls Greenway Pettee Square (Bluebikes),18.84,42.089941,-71.43902
+place-GRB-0276,Greenbush,Scituate,Greenbush Line,,425.0,Southern Artery - Quincy (Metro Mobility),12.93,42.178776,-70.746641
+place-GRB-0233,North Scituate,Scituate,Greenbush Line,,153.0,Southern Artery - Quincy (Metro Mobility),10.14,42.219528,-70.788602
+place-GRB-0199,Cohasset,Cohasset,Greenbush Line,,133.0,Southern Artery - Quincy (Metro Mobility),7.51,42.24421,-70.837529
+place-GRB-0183,Nantasket Junction,Hingham,Greenbush Line,,120.0,Southern Artery - Quincy (Metro Mobility),5.89,42.244959,-70.869205
+place-GRB-0162,West Hingham,Hingham,Greenbush Line,,167.0,Southern Artery - Quincy (Metro Mobility),4.18,42.235838,-70.902708
+place-GRB-0146,East Weymouth,Weymouth,Greenbush Line,,320.0,Southern Artery - Quincy (Metro Mobility),3.57,42.2191,-70.9214
+place-GRB-0118,Weymouth Landing/East Braintree,Weymouth,Greenbush Line,,364.0,Southern Artery - Quincy (Metro Mobility),1.62,42.221503,-70.968152
+place-WR-0329,Haverhill,Haverhill,Haverhill Line,,,Gateway Lot - Lawrence (Metro Mobility),5.62,42.773474,-71.086237
+place-WR-0325,Bradford,Haverhill,Haverhill Line,,294.0,Gateway Lot - Lawrence (Metro Mobility),5.19,42.766912,-71.088411
+place-WR-0264,Lawrence,Lawrence,Haverhill Line,,298.0,McGovern Transportation Center (Metro Mobility),0.0,42.701806,-71.15198
+place-WR-0228,Andover,Andover,Haverhill Line,,247.0,McGovern Transportation Center (Metro Mobility),3.03,42.658336,-71.144502
+place-WR-0205,Ballardvale,Andover,Haverhill Line,,167.0,McGovern Transportation Center (Metro Mobility),5.16,42.627356,-71.159962
+place-WR-0163,North Wilmington,Wilmington,Haverhill Line,,27.0,McGovern Transportation Center (Metro Mobility),9.04,42.571073,-71.160939
+place-WR-0120,Reading,Reading,Haverhill Line,,209.0,Carr Park (Bluebikes),6.1,42.52221,-71.108294
+place-WR-0099,Wakefield,Wakefield,Haverhill Line,,183.0,Carr Park (Bluebikes),4.78,42.502126,-71.075566
+place-WR-0085,Greenwood,Wakefield,Haverhill Line,,77.0,Maplewood Square (Bluebikes),3.58,42.483005,-71.067247
+place-WR-0075,Melrose Highlands,Melrose,Haverhill Line,,86.0,Maplewood Square (Bluebikes),2.72,42.469464,-71.068297
+place-WR-0067,Melrose/Cedar Park,Melrose,Haverhill Line,,63.0,Maplewood Square (Bluebikes),2.11,42.458768,-71.069789
+place-WR-0062,Wyoming Hill,Melrose,Haverhill Line,,51.0,Maplewood Square (Bluebikes),1.72,42.451731,-71.069379
+place-KB-0351,Kingston,Kingston,Kingston Line,,634.0,Southern Artery - Quincy (Metro Mobility),22.68,41.97762,-70.721709
+place-PB-0281,Halifax,Halifax,Kingston Line,,146.0,Southern Artery - Quincy (Metro Mobility),17.69,42.014739,-70.824263
+place-PB-0245,Hanson,Hanson,Kingston Line,,182.0,Southern Artery - Quincy (Metro Mobility),14.62,42.043967,-70.882438
+place-PB-0212,Whitman,Whitman,Kingston Line,,239.0,Southern Artery - Quincy (Metro Mobility),11.41,42.082749,-70.923411
+place-PB-0194,Abington,Abington,Kingston Line,,376.0,Southern Artery - Quincy (Metro Mobility),9.64,42.107156,-70.934405
+place-PB-0158,South Weymouth,Weymouth,Kingston Line,,515.0,Southern Artery - Quincy (Metro Mobility),6.2,42.155025,-70.953302
+place-NHRML-0254,Lowell,Lowell,Lowell Line,,977.0,LRTA - Lowell (Metro Mobility),0.09,42.63535,-71.314543
+place-NHRML-0218,North Billerica,Billerica,Lowell Line,,604.0,LRTA - Lowell (Metro Mobility),3.45,42.593248,-71.280995
+place-NHRML-0152,Wilmington,Wilmington,Lowell Line,,377.0,Steve Miller Dr at Winthrop St (Medford High) (Bluebikes),8.54,42.546624,-71.174334
+place-NHRML-0127,Anderson/Woburn,Woburn,Lowell Line,,677.0,Steve Miller Dr at Winthrop St (Medford High) (Bluebikes),6.21,42.516987,-71.144475
+place-NHRML-0078,Winchester Center,Winchester,Lowell Line,,115.0,Steve Miller Dr at Winthrop St (Medford High) (Bluebikes),1.69,42.451088,-71.13783
+place-NHRML-0073,Wedgemere,Winchester,Lowell Line,,346.0,Steve Miller Dr at Winthrop St (Medford High) (Bluebikes),1.36,42.444948,-71.140169
+place-NHRML-0055,West Medford,Medford,Lowell Line,,415.0,West Medford Square (Bower St at Harvard Ave) (Bluebikes),0.08,42.421776,-71.133342
+place-NB-0137,Needham Heights,Needham,Needham Line,,242.0,Upper Falls Greenway Pettee Square (Bluebikes),1.35,42.293444,-71.236027
+place-NB-0127,Needham Center,Needham,Needham Line,,199.0,Upper Falls Greenway Pettee Square (Bluebikes),2.15,42.280775,-71.237686
+place-NB-0120,Needham Junction,Needham,Needham Line,,284.0,Upper Falls Greenway Pettee Square (Bluebikes),2.61,42.273187,-71.235559
+place-NB-0109,Hersey,Needham,Needham Line,,405.0,Upper Falls Greenway Pettee Square (Bluebikes),2.33,42.275648,-71.215528
+place-NB-0080,West Roxbury,Boston,Needham Line,,356.0,Centre St at Parkway YMCA (Bluebikes),0.17,42.281358,-71.160065
+place-NB-0076,Highland,Boston,Needham Line,,338.0,Centre St at W. Roxbury Post Office (Bluebikes),0.1,42.284969,-71.153937
+place-NB-0072,Bellevue,Boston,Needham Line,,319.0,Bellevue T Stop (Bluebikes),0.05,42.286588,-71.145557
+place-NB-0064,Roslindale Village,Boston,Needham Line,,517.0,Roslindale Village - South St (Bluebikes),0.13,42.287442,-71.130283
+place-GB-0353,Rockport,Rockport,Newburyport/Rockport Line,,140.0,Salem Willows Park (Bluebikes),14.94,42.655491,-70.627055
+place-GB-0316,Gloucester,Gloucester,Newburyport/Rockport Line,,275.0,Salem Willows Park (Bluebikes),11.76,42.616799,-70.668345
+place-GB-0296,West Gloucester,Gloucester,Newburyport/Rockport Line,,38.0,Salem Willows Park (Bluebikes),9.96,42.611933,-70.705417
+place-GB-0254,Manchester,Manchester-by-the-Sea,Newburyport/Rockport Line,,121.0,Salem Willows Park (Bluebikes),5.78,42.573687,-70.77009
+place-GB-0229,Beverly Farms,Beverly,Newburyport/Rockport Line,,83.0,Salem Willows Park (Bluebikes),3.53,42.561651,-70.811405
+place-GB-0198,Montserrat,Beverly,Newburyport/Rockport Line,,185.0,Salem Willows Park (Bluebikes),1.9,42.562171,-70.869254
+place-ER-0362,Newburyport,Newburyport,Newburyport/Rockport Line,,349.0,NBPT Crossing (Metro Mobility),0.15,42.797837,-70.87797
+place-ER-0312,Rowley,Rowley,Newburyport/Rockport Line,,62.0,NBPT Crossing (Metro Mobility),5.15,42.726845,-70.859034
+place-ER-0276,Ipswich,Ipswich,Newburyport/Rockport Line,,205.0,NBPT Crossing (Metro Mobility),8.71,42.676921,-70.840589
+place-ER-0227,Hamilton/Wenham,Hamilton,Newburyport/Rockport Line,,162.0,Salem Willows Park (Bluebikes),5.15,42.609212,-70.874801
+place-ER-0208,North Beverly,Beverly,Newburyport/Rockport Line,,170.0,Salem Willows Park (Bluebikes),3.46,42.583779,-70.883851
+place-ER-0183,Beverly,Beverly,Newburyport/Rockport Line,,1011.0,Salem Willows Park (Bluebikes),1.17,42.547276,-70.885432
+place-ER-0168,Salem,Salem,Newburyport/Rockport Line,,1739.0,Salem MBTA - Lower Level (Bluebikes),0.07,42.524792,-70.895876
+place-ER-0128,Swampscott,Swampscott,Newburyport/Rockport Line,,737.0,Vinnin Square (Bluebikes),1.37,42.473743,-70.922537
+place-ER-0117,Lynn Interim,Lynn,Newburyport/Rockport Line,,470.0,Vinnin Square (Bluebikes),2.45,42.4652901,-70.9404344
+place-chels,Chelsea,Chelsea,Newburyport/Rockport Line,,365.0,Chelsea Station (Bluebikes),0.09,42.397024,-71.041314
+place-NEC-1919,South Attleboro,Attleboro,Providence/Stoughton Line,,19.0,Truman Parkway at Fairmount Ave (Bluebikes),27.31,41.897943,-71.354621
+place-NEC-1969,Attleboro,Attleboro,Providence/Stoughton Line,,1220.0,Truman Parkway at Fairmount Ave (Bluebikes),23.15,41.940739,-71.285094
+place-NEC-2040,Mansfield,Mansfield,Providence/Stoughton Line,,1143.0,Truman Parkway at Fairmount Ave (Bluebikes),16.02,42.032787,-71.219917
+place-NEC-2108,Sharon,Sharon,Providence/Stoughton Line,,756.0,Truman Parkway at Fairmount Ave (Bluebikes),9.45,42.124553,-71.184468
+place-SB-0189,Stoughton,Stoughton,Providence/Stoughton Line,,766.0,Truman Parkway at Fairmount Ave (Bluebikes),8.88,42.124084,-71.103627
+place-SB-0156,Canton Center,Canton,Providence/Stoughton Line,,334.0,Truman Parkway at Fairmount Ave (Bluebikes),6.72,42.157095,-71.14628
+place-NEC-2139,Canton Junction,Canton,Providence/Stoughton Line,,1105.0,Truman Parkway at Fairmount Ave (Bluebikes),6.41,42.163204,-71.15376
+place-NEC-2173,Route 128,Westwood,Providence/Stoughton Line,,1016.0,Truman Parkway at Fairmount Ave (Bluebikes),3.25,42.210308,-71.147134
