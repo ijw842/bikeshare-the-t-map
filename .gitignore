@@ -1,0 +1,10 @@
+# Source data not used by the map
+10.5 All Bike Infrastructure Data/
+Road Inventory (MassDOT Roads)/
+
+# Windows profile-sync (UE-V) folder created by the enterprise setup, not project data
+%LOCALAPPDATA%/
+
+# Jupyter / Office temp files
+.ipynb_checkpoints/
+~$*.xlsx

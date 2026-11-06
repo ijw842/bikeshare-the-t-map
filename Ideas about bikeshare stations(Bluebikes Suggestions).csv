@@ -1,0 +1,14 @@
+﻿See map: ,https://ijw842.github.io/bikeshare-the-t-map/,,,,
+,,,,,
+Station,New Station or Adding Capacity?,BB Muni?,Line,Rationale,Notes
+Oak Grove,New,Yes,Orange Line,Bring Bluebikes to the top of the OL,
+Longwood,New,Yes,Green Line,No stations with 0.25mi; on Emerald Necklace,
+Chestnut Hill,New,Yes,Green Line,"There are stations nearby, but not within 0.25 mi; DCR path around Chestnut Hill Reservoir makes it a top choice",
+Central Square,Adding Capacity,Yes,Red Line,"2nd highest station ridership, only 18 docks currently, with a few stations a few blocks away",Siting might be hard
+Charles MGH,Adding Capacity,Yes,Red Line,"7th highest station ridership, only 18 docks currently) - siting might be hard",Siting might be hard
+Suffolk Downs,New,Yes,Blue Line,Suffolk Downs is a gap in the BB network; and high development occuring,Phase 2 of PDA COB
+Waltham,New,No,Commuter Rail - Fitchburg,Adjacent to BB network; near off-street paths; robust student population,
+North Quincy ,New,No,Red Line,"Quincy is joining BB, these Red Line stops are the closest to the existing BB network",
+Wollaston,New,No,Red Line,"Quincy is joining BB, these Red Line stops are the closest to the existing BB network",
+Quincy Center,New,No,Red Line,"Quincy is joining BB, these Red Line stops are the closest to the existing BB network",
+Milton,New,No,Mattapan Line,No stations with 0.25mi; on Neponset River Greenway,Existing MBTA/Milton dynamic
